@@ -14,7 +14,7 @@ PL-UA QuizBot is a Telegram bot designed to help users practice Polish and Ukrai
 1. **Clone the Repository**:
 ```bash
 git clone https://github.com/Vagalep/pl-ua-quiz-bot.git
-cd QuizBot
+cd pl-ua-quiz-bot
 ```
 2. **Install the required Python packages**:
 ```bash
