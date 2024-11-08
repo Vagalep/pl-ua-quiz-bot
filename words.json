@@ -1,0 +1,9952 @@
+[
+    {
+        "word": "na",
+        "options": [
+            "на",
+            "вимови",
+            "тіло",
+            "також"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "z",
+        "options": [
+            "коридор",
+            "досить",
+            "з",
+            "рушити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "do",
+        "options": [
+            "до",
+            "брова",
+            "мабуть",
+            "певний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "to",
+        "options": [
+            "холера",
+            "запитати",
+            "караульний",
+            "то"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "że",
+        "options": [
+            "ми",
+            "дух",
+            "гострий",
+            "що"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "a",
+        "options": [
+            "а",
+            "явити",
+            "незважаючи",
+            "сенс"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "o",
+        "options": [
+            "проте",
+            "істота",
+            "на",
+            "радіо"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "jak",
+        "options": [
+            "колесо",
+            "як",
+            "почати",
+            "один"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ale",
+        "options": [
+            "але",
+            "щасливий",
+            "негайно",
+            "плече"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "po",
+        "options": [
+            "після",
+            "територія",
+            "тихий",
+            "світло"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "co",
+        "options": [
+            "ніде",
+            "що",
+            "напад",
+            "багато"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "tak",
+        "options": [
+            "вхід",
+            "сам",
+            "правда",
+            "так"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "za",
+        "options": [
+            "із-за",
+            "за",
+            "поза",
+            "зустріч"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "od",
+        "options": [
+            "мати",
+            "од",
+            "генерал",
+            "тут"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "go",
+        "options": [
+            "звідти",
+            "його",
+            "присутність",
+            "граф"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "już",
+        "options": [
+            "кров",
+            "вже",
+            "кохати",
+            "щоб"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "jego",
+        "options": [
+            "око",
+            "його",
+            "зробити",
+            "також"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "jej",
+        "options": [
+            "робота",
+            "виразно",
+            "як",
+            "її"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "czy",
+        "options": [
+            "ага",
+            "незабаром",
+            "чи",
+            "том"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "przez",
+        "options": [
+            "через",
+            "справді",
+            "гостро",
+            "правда"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "tylko",
+        "options": [
+            "потім",
+            "чого",
+            "також",
+            "тільки"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "tego",
+        "options": [
+            "петляй",
+            "нервово",
+            "того",
+            "або"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "sobie",
+        "options": [
+            "кого",
+            "життя",
+            "собі",
+            "хлопець"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "jeszcze",
+        "options": [
+            "червоний",
+            "врешті",
+            "ще",
+            "хіба"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "może",
+        "options": [
+            "вигляд",
+            "може",
+            "зовсім",
+            "враз"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ze",
+        "options": [
+            "широко",
+            "з",
+            "дійти",
+            "другий"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "kiedy",
+        "options": [
+            "делікатно",
+            "щоденно",
+            "повільно",
+            "коли"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pan",
+        "options": [
+            "пан",
+            "північ",
+            "кіт",
+            "меч"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ich",
+        "options": [
+            "їх",
+            "вечір",
+            "навіть",
+            "замок"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dla",
+        "options": [
+            "для",
+            "ліс",
+            "схід",
+            "знак"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "by",
+        "options": [
+            "син",
+            "щоб",
+            "червоний",
+            "життів"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "gdy",
+        "options": [
+            "саме",
+            "коли",
+            "закінчити",
+            "широко"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "teraz",
+        "options": [
+            "тепер",
+            "щож",
+            "гостро",
+            "їхати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ja",
+        "options": [
+            "досить",
+            "схожий",
+            "я",
+            "він"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ten",
+        "options": [
+            "говорити",
+            "дерево",
+            "той",
+            "глибоко"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "który",
+        "options": [
+            "який",
+            "навколо",
+            "одночасно",
+            "всупереч"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "nawet",
+        "options": [
+            "небагато",
+            "навіть",
+            "нарешті",
+            "судно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "bardzo",
+        "options": [
+            "сім",
+            "зазвичай",
+            "дуже",
+            "п'ятдесят"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "przed",
+        "options": [
+            "останки",
+            "для",
+            "перед",
+            "ліво"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "tu",
+        "options": [
+            "тут",
+            "чорний",
+            "голосно",
+            "берег"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "jednak",
+        "options": [
+            "квартира",
+            "добратися",
+            "адже",
+            "однак"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pod",
+        "options": [
+            "під",
+            "якийсь",
+            "мало",
+            "привіт"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "coś",
+        "options": [
+            "як",
+            "щось",
+            "часом",
+            "постать"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "tam",
+        "options": [
+            "прагнення",
+            "імперія",
+            "там",
+            "глибина"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wszystko",
+        "options": [
+            "факт",
+            "все",
+            "враження",
+            "просити"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przy",
+        "options": [
+            "перед",
+            "сім",
+            "однак",
+            "при"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "więc",
+        "options": [
+            "мати",
+            "брак",
+            "отже",
+            "напевно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nic",
+        "options": [
+            "ніщо",
+            "дорога",
+            "участь",
+            "син"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "bo",
+        "options": [
+            "повітря",
+            "од",
+            "кінець",
+            "бо"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "nim",
+        "options": [
+            "погано",
+            "кров",
+            "особливо",
+            "першніж"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "żeby",
+        "options": [
+            "окрім",
+            "навколо",
+            "дійти",
+            "щоб"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "miał",
+        "options": [
+            "важко",
+            "тіло",
+            "те",
+            "мав"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "on",
+        "options": [
+            "однак",
+            "він",
+            "під",
+            "вісім"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "być",
+        "options": [
+            "всьоголише",
+            "автор",
+            "глибоко",
+            "бути"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "potem",
+        "options": [
+            "потім",
+            "нараз",
+            "кожен",
+            "то"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "też",
+        "options": [
+            "також",
+            "всупереч",
+            "свій",
+            "садиба"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "jeśli",
+        "options": [
+            "все",
+            "приятель",
+            "якщо",
+            "блискавично"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "bez",
+        "options": [
+            "садиба",
+            "бузок",
+            "дух",
+            "пристосовуй"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nad",
+        "options": [
+            "над",
+            "чоловік",
+            "потрібний",
+            "прекрасний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "gdzie",
+        "options": [
+            "хазяїн",
+            "bob",
+            "де",
+            "доктор"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "lecz",
+        "options": [
+            "достатньо",
+            "очевидно",
+            "радість",
+            "але"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "siebie",
+        "options": [
+            "служити",
+            "нічого",
+            "себе",
+            "щож"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nigdy",
+        "options": [
+            "ніколи",
+            "ситуація",
+            "вздовж",
+            "блиск"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ani",
+        "options": [
+            "ані",
+            "батько",
+            "три",
+            "картина"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "właśnie",
+        "options": [
+            "саме",
+            "схожий",
+            "невпинно",
+            "хто"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "sam",
+        "options": [
+            "сам",
+            "мир",
+            "весело",
+            "поліція"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "u",
+        "options": [
+            "захищати",
+            "собі",
+            "в",
+            "його"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "dobrze",
+        "options": [
+            "добре",
+            "блиск",
+            "поступово",
+            "затримати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "niż",
+        "options": [
+            "винен",
+            "свідомість",
+            "під",
+            "ніж"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "jakby",
+        "options": [
+            "згідно",
+            "немовби",
+            "мій",
+            "robić"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "aby",
+        "options": [
+            "скільки",
+            "зазвичай",
+            "щоб",
+            "важко"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ty",
+        "options": [
+            "радій",
+            "ти",
+            "рука",
+            "птах"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "oczy",
+        "options": [
+            "зимно",
+            "очі",
+            "система",
+            "думати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zawsze",
+        "options": [
+            "просувань",
+            "завжди",
+            "лишитися",
+            "ліво"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "raz",
+        "options": [
+            "розділ",
+            "напевне",
+            "раз",
+            "ніби"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "były",
+        "options": [
+            "першніж",
+            "що",
+            "були",
+            "зробити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "no",
+        "options": [
+            "добратися",
+            "план",
+            "завжди",
+            "ну"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "albo",
+        "options": [
+            "або",
+            "я",
+            "використати",
+            "вигляд"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "gdyby",
+        "options": [
+            "żal",
+            "якби",
+            "бузок",
+            "опустити"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "aż",
+        "options": [
+            "нажаль",
+            "все",
+            "щось",
+            "поки"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wtedy",
+        "options": [
+            "як",
+            "ані",
+            "тоді",
+            "однаково"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "przecież",
+        "options": [
+            "хлопець",
+            "адже",
+            "той",
+            "блискавично"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ona",
+        "options": [
+            "хіба",
+            "вона",
+            "настрой",
+            "ресурс"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "drzwi",
+        "options": [
+            "бачити",
+            "папір",
+            "якого",
+            "двері"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "jako",
+        "options": [
+            "оглянути",
+            "той",
+            "як",
+            "відстань"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "chyba",
+        "options": [
+            "важко",
+            "досконало",
+            "крик",
+            "хіба"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "nagle",
+        "options": [
+            "враз",
+            "третій",
+            "живіт",
+            "міцно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wszyscy",
+        "options": [
+            "донині",
+            "радіо",
+            "дослівно",
+            "всі"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "jeden",
+        "options": [
+            "один",
+            "петляй",
+            "як",
+            "дівчина"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "czym",
+        "options": [
+            "чим",
+            "берег",
+            "голова",
+            "подумати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kto",
+        "options": [
+            "син",
+            "хто",
+            "одночасно",
+            "глупий"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "sposób",
+        "options": [
+            "мама",
+            "гаряче",
+            "пристосовуй",
+            "милий"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "czas",
+        "options": [
+            "кохання",
+            "непокой",
+            "зараз",
+            "час"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "kilka",
+        "options": [
+            "декілька",
+            "суттєво",
+            "зробити",
+            "життя"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dlaczego",
+        "options": [
+            "чому",
+            "поступово",
+            "точно",
+            "повертатися"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "razem",
+        "options": [
+            "туман",
+            "писати",
+            "разом",
+            "батько"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "także",
+        "options": [
+            "до",
+            "сьогодні",
+            "ходити",
+            "також"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "mój",
+        "options": [
+            "мій",
+            "для",
+            "палуба",
+            "чи"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "nikt",
+        "options": [
+            "місяць",
+            "ніхто",
+            "важко",
+            "більшість"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "choć",
+        "options": [
+            "хоч",
+            "їжа",
+            "ніщо",
+            "часом"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wiele",
+        "options": [
+            "незабаром",
+            "бік",
+            "під",
+            "багато"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dwa",
+        "options": [
+            "натомість",
+            "хіба",
+            "жінка",
+            "два"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ktoś",
+        "options": [
+            "вільний",
+            "хтось",
+            "спішно",
+            "винятково"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "lub",
+        "options": [
+            "частина",
+            "вогонь",
+            "дороги",
+            "або"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "trzeba",
+        "options": [
+            "якщо",
+            "делікатно",
+            "потрібно",
+            "переважно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "niech",
+        "options": [
+            "сьогодні",
+            "п'ять",
+            "хай",
+            "загашай"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ku",
+        "options": [
+            "нагадати",
+            "до",
+            "взяти",
+            "повідношеннюдо"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "twarz",
+        "options": [
+            "передусім",
+            "обличчя",
+            "або",
+            "дими"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "którego",
+        "options": [
+            "грає",
+            "номер",
+            "якого",
+            "звідки"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "we",
+        "options": [
+            "у",
+            "вечір",
+            "хлопець",
+            "милий"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "znowu",
+        "options": [
+            "знов",
+            "змінити",
+            "мило",
+            "прикро"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "człowiek",
+        "options": [
+            "щастя",
+            "людина",
+            "короткий",
+            "дев'ять"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "jakiś",
+        "options": [
+            "вважати",
+            "якийсь",
+            "високо",
+            "кіт"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "tutaj",
+        "options": [
+            "захищати",
+            "тут",
+            "зір",
+            "значення"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "szybko",
+        "options": [
+            "швидко",
+            "написати",
+            "плющ",
+            "біль"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "tyle",
+        "options": [
+            "рік",
+            "стільки",
+            "що",
+            "ніякий"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "głos",
+        "options": [
+            "голос",
+            "з",
+            "відділ",
+            "вигляд"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "między",
+        "options": [
+            "повернути",
+            "між",
+            "повернення",
+            "повідомлення"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wreszcie",
+        "options": [
+            "з-за",
+            "відділ",
+            "врешті",
+            "прикро"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "również",
+        "options": [
+            "їх",
+            "схід",
+            "також",
+            "відчуттів"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "życie",
+        "options": [
+            "життя",
+            "її",
+            "мабуть",
+            "птах"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "oczywiście",
+        "options": [
+            "весьчас",
+            "головне",
+            "очевидно",
+            "абсолютно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "znów",
+        "options": [
+            "врешті",
+            "крім",
+            "що",
+            "знову"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "swoje",
+        "options": [
+            "святий",
+            "своє",
+            "юнак",
+            "зустріти"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dlatego",
+        "options": [
+            "тому",
+            "високий",
+            "садиба",
+            "вісім"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zbyt",
+        "options": [
+            "рот",
+            "правильно",
+            "хочби",
+            "занадто"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ciebie",
+        "options": [
+            "ми",
+            "повірити",
+            "тебе",
+            "прекрасно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zupełnie",
+        "options": [
+            "приклад",
+            "цілком",
+            "можливість",
+            "робота"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "taki",
+        "options": [
+            "судно",
+            "такий",
+            "непокой",
+            "коли-небудь"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "czego",
+        "options": [
+            "згідно",
+            "чого",
+            "перед",
+            "позбавлень"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "iż",
+        "options": [
+            "глибокий",
+            "що",
+            "новий",
+            "скільки"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dopiero",
+        "options": [
+            "навколо",
+            "який",
+            "лише",
+            "увечері"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "powiedzieć",
+        "options": [
+            "добрий",
+            "тримати",
+            "наступний",
+            "сказати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "obok",
+        "options": [
+            "кільканадцять",
+            "збоку",
+            "виразно",
+            "tato"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "prawie",
+        "options": [
+            "проблема",
+            "майже",
+            "війна",
+            "номер"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "poza",
+        "options": [
+            "пів",
+            "сходи",
+            "висота",
+            "поза"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zaś",
+        "options": [
+            "неохоче",
+            "але",
+            "можливість",
+            "дрібне"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wciąż",
+        "options": [
+            "зрештою",
+            "весьчас",
+            "зовні",
+            "щоб"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "jeżeli",
+        "options": [
+            "одночасно",
+            "якщо",
+            "щоправда",
+            "чи"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "moje",
+        "options": [
+            "затримати",
+            "посмішка",
+            "біль",
+            "моє"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "prawda",
+        "options": [
+            "правда",
+            "рішуче",
+            "щораз",
+            "постать"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "trzy",
+        "options": [
+            "три",
+            "вздовж",
+            "один",
+            "завтра"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dzień",
+        "options": [
+            "період",
+            "офіцер",
+            "день",
+            "темно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "miejsce",
+        "options": [
+            "вухо",
+            "місце",
+            "ситуація",
+            "закінчити"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "mimo",
+        "options": [
+            "здоров'я",
+            "діяти",
+            "хоч",
+            "незважаючи"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ponieważ",
+        "options": [
+            "сніданок",
+            "оскільки",
+            "почуттів",
+            "пам'ять"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zaraz",
+        "options": [
+            "подібно",
+            "безперервно",
+            "зробити",
+            "зараз"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "długo",
+        "options": [
+            "чим",
+            "довго",
+            "завдання",
+            "шматок"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "coraz",
+        "options": [
+            "щораз",
+            "солдат",
+            "дядько",
+            "зауважити"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "podczas",
+        "options": [
+            "часом",
+            "кохання",
+            "хтось",
+            "перед"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "natychmiast",
+        "options": [
+            "якби",
+            "робота",
+            "люд",
+            "негайно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zanim",
+        "options": [
+            "завжди",
+            "донька",
+            "першніж",
+            "волосся"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "cóż",
+        "options": [
+            "щож",
+            "гострий",
+            "привід",
+            "поліція"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "każdy",
+        "options": [
+            "десь",
+            "саме",
+            "кожен",
+            "спокійний"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zrobić",
+        "options": [
+            "вісім",
+            "упіймати",
+            "небо",
+            "зробити"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ojciec",
+        "options": [
+            "вода",
+            "батько",
+            "від",
+            "характер"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "my",
+        "options": [
+            "ми",
+            "між",
+            "момент",
+            "три"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dość",
+        "options": [
+            "часом",
+            "сержант",
+            "досить",
+            "молодий"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "oraz",
+        "options": [
+            "пояснити",
+            "сам",
+            "також",
+            "на"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "jaki",
+        "options": [
+            "затримати",
+            "який",
+            "лишитися",
+            "папір"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "stanie",
+        "options": [
+            "рух",
+            "стане",
+            "хвиля",
+            "безліч"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wcale",
+        "options": [
+            "щастя",
+            "садиба",
+            "зовсім",
+            "відколи"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wśród",
+        "options": [
+            "напевне",
+            "потрібно",
+            "серед",
+            "повітря"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "mieć",
+        "options": [
+            "мати",
+            "блиск",
+            "тихо",
+            "потім"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zresztą",
+        "options": [
+            "зрештою",
+            "нещастя",
+            "генерал",
+            "стільки"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dziś",
+        "options": [
+            "dowiedzieć",
+            "сьогодні",
+            "уважно",
+            "хліб"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ile",
+        "options": [
+            "зробити",
+            "чудово",
+            "від",
+            "скільки"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "chociaż",
+        "options": [
+            "пояс",
+            "діяти",
+            "достатньо",
+            "хоч"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "gdyż",
+        "options": [
+            "день",
+            "томущо",
+            "початково",
+            "відверто"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "kiedyś",
+        "options": [
+            "колись",
+            "хвиля",
+            "південь",
+            "схід"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "swój",
+        "options": [
+            "утікати",
+            "свій",
+            "раз",
+            "потужний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "jedynie",
+        "options": [
+            "затримати",
+            "всьоголише",
+            "зір",
+            "дах"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pewno",
+        "options": [
+            "нервово",
+            "язик",
+            "напевне",
+            "брат"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nieco",
+        "options": [
+            "трохи",
+            "тількиб",
+            "ліжко",
+            "зберегти"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "niemal",
+        "options": [
+            "брова",
+            "утікати",
+            "майже",
+            "лічити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "gdzieś",
+        "options": [
+            "донині",
+            "прикро",
+            "десь",
+            "зробити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "jedno",
+        "options": [
+            "той",
+            "одне",
+            "раніше",
+            "низько"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wokół",
+        "options": [
+            "якби",
+            "воювати",
+            "плече",
+            "навколо"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "powoli",
+        "options": [
+            "початок",
+            "повільно",
+            "люд",
+            "справді"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wrażenie",
+        "options": [
+            "поки",
+            "дядько",
+            "враження",
+            "здобуття"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "matka",
+        "options": [
+            "хворий",
+            "мати",
+            "згідно",
+            "зовні"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "świat",
+        "options": [
+            "захищай",
+            "солдат",
+            "стримати",
+            "світ"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "kobieta",
+        "options": [
+            "жінка",
+            "її",
+            "стримати",
+            "носилки"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "skąd",
+        "options": [
+            "звідки",
+            "явити",
+            "щастя",
+            "часом"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "myśl",
+        "options": [
+            "думай",
+            "нарешті",
+            "потрібно",
+            "аджеж"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "stary",
+        "options": [
+            "непорушно",
+            "зв'язок",
+            "давно",
+            "старик"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dużo",
+        "options": [
+            "оглянути",
+            "багато",
+            "правда",
+            "висота"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "drogi",
+        "options": [
+            "зручно",
+            "дати",
+            "дороги",
+            "передусім"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nadal",
+        "options": [
+            "глибокий",
+            "ліс",
+            "надалі",
+            "крім"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "drugi",
+        "options": [
+            "дивно",
+            "останній",
+            "другий",
+            "коротко"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "bowiem",
+        "options": [
+            "упіймати",
+            "бо",
+            "крок",
+            "інколи"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przynajmniej",
+        "options": [
+            "небо",
+            "принаймні",
+            "імовірно",
+            "читати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pewnie",
+        "options": [
+            "навпаки",
+            "напевно",
+            "територія",
+            "вітер"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "często",
+        "options": [
+            "віддати",
+            "żal",
+            "всьоголише",
+            "часто"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "razy",
+        "options": [
+            "привіт",
+            "рази",
+            "ліво",
+            "щоб"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "mężczyzna",
+        "options": [
+            "імовірно",
+            "також",
+            "трохи",
+            "чоловік"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dokładnie",
+        "options": [
+            "весело",
+            "точно",
+            "ледве",
+            "або"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "niczego",
+        "options": [
+            "частково",
+            "сьогодні",
+            "в'яже",
+            "нічого"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "mówić",
+        "options": [
+            "зовні",
+            "тобто",
+            "лічити",
+            "говорити"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dzięki",
+        "options": [
+            "завдяки",
+            "воно",
+            "ви",
+            "він"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "pewien",
+        "options": [
+            "дах",
+            "гостро",
+            "певний",
+            "прагнення"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "widać",
+        "options": [
+            "майже",
+            "повітря",
+            "південь",
+            "видно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "cicho",
+        "options": [
+            "допомога",
+            "тихо",
+            "дивно",
+            "дослівно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "właściwie",
+        "options": [
+            "батько",
+            "власне",
+            "відстань",
+            "лікар"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "rzecz",
+        "options": [
+            "повнів",
+            "старанно",
+            "вимови",
+            "місяць"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wolno",
+        "options": [
+            "час",
+            "тема",
+            "вільно",
+            "вуха"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "oto",
+        "options": [
+            "тепло",
+            "давно",
+            "ось",
+            "кінь"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ciało",
+        "options": [
+            "поручик",
+            "тіло",
+            "чекати",
+            "генерал"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "czasem",
+        "options": [
+            "мова",
+            "кохання",
+            "часом",
+            "дівчинка"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wiedzieć",
+        "options": [
+            "знати",
+            "дими",
+            "кинути",
+            "усередині"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "stąd",
+        "options": [
+            "саме",
+            "майстер",
+            "звідси",
+            "страшно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wkrótce",
+        "options": [
+            "десять",
+            "незабаром",
+            "рано",
+            "ego"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dół",
+        "options": [
+            "червоний",
+            "потім",
+            "вільно",
+            "низ"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pół",
+        "options": [
+            "опустити",
+            "пів",
+            "згідно",
+            "чимось"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "noc",
+        "options": [
+            "ніч",
+            "куди",
+            "почути",
+            "завдяки"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "całkiem",
+        "options": [
+            "повідношеннюдо",
+            "цілком",
+            "що",
+            "необхідно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wówczas",
+        "options": [
+            "пристосовуй",
+            "тоді",
+            "відповідь",
+            "коротко"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dom",
+        "options": [
+            "центр",
+            "оскільки",
+            "дім",
+            "шукати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wzrok",
+        "options": [
+            "мова",
+            "зір",
+            "небо",
+            "далеко"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "mocno",
+        "options": [
+            "міцно",
+            "тільки",
+            "одяг",
+            "tato"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "trudno",
+        "options": [
+            "святий",
+            "важко",
+            "досить",
+            "ледве"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dziewczyna",
+        "options": [
+            "дівчина",
+            "хоч",
+            "спокій",
+            "вчора"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dziecko",
+        "options": [
+            "товариство",
+            "дитина",
+            "повнів",
+            "небагато"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "skoro",
+        "options": [
+            "оскільки",
+            "довкола",
+            "недовго",
+            "пояснити"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wobec",
+        "options": [
+            "повідношеннюдо",
+            "працювати",
+            "захищати",
+            "розділ"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "śmierć",
+        "options": [
+            "сильний",
+            "смерть",
+            "завтра",
+            "понад"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "rzeczywiście",
+        "options": [
+            "повернення",
+            "прямо",
+            "справді",
+            "якже"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "koniec",
+        "options": [
+            "кінець",
+            "глибокий",
+            "перевірити",
+            "момент"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "tuż",
+        "options": [
+            "майбутнє",
+            "свій",
+            "тутже",
+            "щоб"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "daleko",
+        "options": [
+            "водночас",
+            "разомзтим",
+            "далеко",
+            "значно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pięć",
+        "options": [
+            "важко",
+            "бо",
+            "взаємно",
+            "п'ять"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "serce",
+        "options": [
+            "скільки",
+            "почуттів",
+            "ми",
+            "серце"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "spokojnie",
+        "options": [
+            "безперервно",
+            "виразно",
+            "незалежно",
+            "спокійно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "czegoś",
+        "options": [
+            "чогось",
+            "бік",
+            "коридор",
+            "потяг"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wielki",
+        "options": [
+            "великий",
+            "той",
+            "відголос",
+            "життів"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dłoń",
+        "options": [
+            "місяць",
+            "долоня",
+            "пістолет",
+            "кожен"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "część",
+        "options": [
+            "суттєво",
+            "видно",
+            "частина",
+            "тема"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "najpierw",
+        "options": [
+            "передусім",
+            "написати",
+            "ходити",
+            "шматок"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "mało",
+        "options": [
+            "зазвичай",
+            "мало",
+            "місяць",
+            "захищати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "temat",
+        "options": [
+            "тема",
+            "територія",
+            "в'язало",
+            "двоє"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "włosy",
+        "options": [
+            "майстер",
+            "волосся",
+            "багато",
+            "ніч"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wraz",
+        "options": [
+            "добре",
+            "разом",
+            "до",
+            "схід"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "usta",
+        "options": [
+            "рот",
+            "що-небудь",
+            "навколо",
+            "недавно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "widok",
+        "options": [
+            "хлопець",
+            "вигляд",
+            "радіо",
+            "привід"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "równie",
+        "options": [
+            "мати",
+            "однаково",
+            "щоденно",
+            "правда"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ponad",
+        "options": [
+            "понад",
+            "пояс",
+            "навпіл",
+            "мій"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "robić",
+        "options": [
+            "сенс",
+            "robić",
+            "істота",
+            "щораз"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "cztery",
+        "options": [
+            "на",
+            "чотири",
+            "напевне",
+            "повнів"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ciągle",
+        "options": [
+            "товстий",
+            "сам",
+            "вождь",
+            "безперервно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "inny",
+        "options": [
+            "дівчинка",
+            "обидва",
+            "інший",
+            "відчуття"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "znaleźć",
+        "options": [
+            "рука",
+            "знайти",
+            "місто",
+            "увійти"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dobry",
+        "options": [
+            "вплив",
+            "добрий",
+            "або",
+            "spodziewać"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wyraźnie",
+        "options": [
+            "зрозуміти",
+            "щоденно",
+            "виразно",
+            "сто"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ponownie",
+        "options": [
+            "сон",
+            "знову",
+            "побачити",
+            "утікати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pytanie",
+        "options": [
+            "першніж",
+            "коридор",
+            "питання",
+            "ми"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "dzisiaj",
+        "options": [
+            "сьогодні",
+            "безмірно",
+            "сила",
+            "дорога"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kogoś",
+        "options": [
+            "когось",
+            "ти",
+            "ви",
+            "план"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zwykle",
+        "options": [
+            "од",
+            "себе",
+            "зазвичай",
+            "повідомлення"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "słowo",
+        "options": [
+            "слово",
+            "упіймав",
+            "факт",
+            "важко"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "jakoś",
+        "options": [
+            "сестра",
+            "поліція",
+            "якось",
+            "ніби"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nasz",
+        "options": [
+            "наш",
+            "тема",
+            "рішуче",
+            "мати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "szczęście",
+        "options": [
+            "тисяча",
+            "щастя",
+            "чимось",
+            "мерщій"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "prawo",
+        "options": [
+            "папір",
+            "серед",
+            "право",
+            "tato"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zapewne",
+        "options": [
+            "повний",
+            "голова",
+            "напевно",
+            "зимно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "światło",
+        "options": [
+            "щоб",
+            "плющ",
+            "дихання",
+            "світло"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "bóg",
+        "options": [
+            "плющ",
+            "бог",
+            "якби",
+            "бік"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "tymczasem",
+        "options": [
+            "рух",
+            "тимчасом",
+            "крім",
+            "посередині"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przykład",
+        "options": [
+            "участь",
+            "приклад",
+            "доля",
+            "що-небудь"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przede",
+        "options": [
+            "часом",
+            "зустріч",
+            "задум",
+            "перед"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "nikogo",
+        "options": [
+            "нікого",
+            "відчуття",
+            "вільно",
+            "понуро"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dzieje",
+        "options": [
+            "добрий",
+            "там",
+            "мерщій",
+            "в'яже"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "lekko",
+        "options": [
+            "легко",
+            "шуми",
+            "вірити",
+            "телефон"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "żaden",
+        "options": [
+            "ніякий",
+            "вздовж",
+            "майстер",
+            "сильний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zobaczyć",
+        "options": [
+            "чекати",
+            "побачити",
+            "ліс",
+            "висота"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ramię",
+        "options": [
+            "один",
+            "плече",
+            "шуми",
+            "пів"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "twój",
+        "options": [
+            "твій",
+            "палець",
+            "комусь",
+            "останній"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wy",
+        "options": [
+            "прийти",
+            "ви",
+            "вбивств",
+            "петляй"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "czymś",
+        "options": [
+            "майже",
+            "імперія",
+            "власний",
+            "чимось"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "znacznie",
+        "options": [
+            "в'яже",
+            "значно",
+            "постійно",
+            "захищай"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "powietrze",
+        "options": [
+            "ось",
+            "милий",
+            "ніколи",
+            "повітря"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "rano",
+        "options": [
+            "укриттів",
+            "знищити",
+            "вранці",
+            "показати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "doktor",
+        "options": [
+            "власний",
+            "першніж",
+            "доктор",
+            "мій"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "sprawa",
+        "options": [
+            "хтож",
+            "справа",
+            "долоня",
+            "отже"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "młody",
+        "options": [
+            "тоді",
+            "напевно",
+            "молодий",
+            "власний"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "dziesięć",
+        "options": [
+            "ніж",
+            "доля",
+            "десять",
+            "напевно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "następnie",
+        "options": [
+            "потім",
+            "блиск",
+            "наступний",
+            "майже"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "och",
+        "options": [
+            "караульний",
+            "небо",
+            "часто",
+            "ох"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dwadzieścia",
+        "options": [
+            "хто",
+            "оскільки",
+            "номер",
+            "двадцять"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "jutro",
+        "options": [
+            "поганий",
+            "квартира",
+            "завтра",
+            "порадити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zatem",
+        "options": [
+            "головне",
+            "читати",
+            "в'язало",
+            "отже"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "list",
+        "options": [
+            "лист",
+            "разомзтим",
+            "мур",
+            "всюди"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "jednocześnie",
+        "options": [
+            "сердечно",
+            "дно",
+            "водночас",
+            "сержант"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ach",
+        "options": [
+            "напевно",
+            "ах",
+            "задум",
+            "рік"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zamiast",
+        "options": [
+            "нещастя",
+            "замість",
+            "адже",
+            "майже"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "iść",
+        "options": [
+            "початково",
+            "йти",
+            "професор",
+            "стане"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dawno",
+        "options": [
+            "ледве",
+            "разом",
+            "давно",
+            "укриттів"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "czemu",
+        "options": [
+            "запитати",
+            "собака",
+            "свіжо",
+            "чому"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "natomiast",
+        "options": [
+            "натомість",
+            "нажаль",
+            "два",
+            "безсумнівно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wiadomo",
+        "options": [
+            "відомо",
+            "рівно",
+            "дім",
+            "часто"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "możliwe",
+        "options": [
+            "щастя",
+            "пан",
+            "можливо",
+            "якже"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "słońce",
+        "options": [
+            "чиж",
+            "вечір",
+            "щиро",
+            "сонце"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "kapitan",
+        "options": [
+            "капітан",
+            "хай",
+            "крок",
+            "tato"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wiatr",
+        "options": [
+            "охоче",
+            "повірити",
+            "вітер",
+            "використати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "głośno",
+        "options": [
+            "голова",
+            "тепер",
+            "хочби",
+            "голосно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ostatni",
+        "options": [
+            "żal",
+            "око",
+            "тількиб",
+            "останній"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "podobnie",
+        "options": [
+            "хлопець",
+            "добре",
+            "подібно",
+            "вигляд"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "dać",
+        "options": [
+            "чоловік",
+            "позбавлень",
+            "король",
+            "дати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ego",
+        "options": [
+            "тисяча",
+            "розповідь",
+            "ego",
+            "горло"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "całkowicie",
+        "options": [
+            "легко",
+            "мовчання",
+            "цілком",
+            "незвичайно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zostać",
+        "options": [
+            "лишитися",
+            "легко",
+            "берег",
+            "сержант"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "prosto",
+        "options": [
+            "трохи",
+            "просити",
+            "прямо",
+            "занадто"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "niewiele",
+        "options": [
+            "їсти",
+            "небагато",
+            "ресурс",
+            "опустити"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "krew",
+        "options": [
+            "використати",
+            "анітрохи",
+            "кров",
+            "шість"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "broń",
+        "options": [
+            "зустріч",
+            "захищай",
+            "в",
+            "працювати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zwłaszcza",
+        "options": [
+            "різко",
+            "величезний",
+            "хтось",
+            "особливо"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "spod",
+        "options": [
+            "з-під",
+            "ледве",
+            "тому",
+            "немовби"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "większość",
+        "options": [
+            "радість",
+            "вода",
+            "більшість",
+            "вигук"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "miłość",
+        "options": [
+            "кохання",
+            "із-за",
+            "адже",
+            "темно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "koło",
+        "options": [
+            "офіцер",
+            "колесо",
+            "думай",
+            "милий"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pomiędzy",
+        "options": [
+            "для",
+            "потяг",
+            "упіймати",
+            "між"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "mąż",
+        "options": [
+            "чоловік",
+            "ніхто",
+            "гаряче",
+            "окрім"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wprost",
+        "options": [
+            "тепер",
+            "вісім",
+            "відверто",
+            "двоє"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "dopóki",
+        "options": [
+            "командувач",
+            "легко",
+            "поки",
+            "радіо"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wieczorem",
+        "options": [
+            "увечері",
+            "високо",
+            "зимно",
+            "раніше"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "doskonale",
+        "options": [
+            "територія",
+            "переконати",
+            "досконало",
+            "бо"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "niby",
+        "options": [
+            "остаточно",
+            "ніби",
+            "стільки",
+            "ходити"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "łatwo",
+        "options": [
+            "справжній",
+            "виразно",
+            "легко",
+            "собака"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "blisko",
+        "options": [
+            "чоловік",
+            "близько",
+            "над",
+            "разомзтим"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dotąd",
+        "options": [
+            "доти",
+            "оглянути",
+            "світ",
+            "історія"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kogo",
+        "options": [
+            "кого",
+            "збоку",
+            "м'яко",
+            "мало"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "droga",
+        "options": [
+            "дорога",
+            "подумати",
+            "зчисла",
+            "нічого"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "głęboko",
+        "options": [
+            "потрібно",
+            "глибоко",
+            "сидіти",
+            "величезний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "żona",
+        "options": [
+            "людина",
+            "дружина",
+            "швидко",
+            "шукати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przedtem",
+        "options": [
+            "носилки",
+            "чого",
+            "раніше",
+            "добре"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "niebo",
+        "options": [
+            "величезний",
+            "судно",
+            "тут",
+            "небо"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "panna",
+        "options": [
+            "чоло",
+            "що",
+            "дівчина",
+            "якийсь"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "źle",
+        "options": [
+            "погано",
+            "вважати",
+            "лист",
+            "смерть"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ów",
+        "options": [
+            "той",
+            "єдиний",
+            "дружина",
+            "широко"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "obaj",
+        "options": [
+            "обидва",
+            "robić",
+            "щось",
+            "холера"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "niestety",
+        "options": [
+            "нажаль",
+            "дванадцять",
+            "борги",
+            "земля"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "według",
+        "options": [
+            "згідно",
+            "тоді",
+            "аджеж",
+            "водночас"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zewnątrz",
+        "options": [
+            "напевне",
+            "видно",
+            "зовні",
+            "вхід"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "prawdopodobnie",
+        "options": [
+            "привіт",
+            "імовірно",
+            "перед",
+            "початок"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "bądź",
+        "options": [
+            "в'яже",
+            "або",
+            "всупереч",
+            "гаряче"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "miasto",
+        "options": [
+            "сходи",
+            "сім'я",
+            "ліс",
+            "місто"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "choćby",
+        "options": [
+            "хочби",
+            "працювати",
+            "зайняти",
+            "стояти"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "król",
+        "options": [
+            "перейти",
+            "хазяїн",
+            "їжа",
+            "король"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ostrożnie",
+        "options": [
+            "очі",
+            "холера",
+            "висота",
+            "обережно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "czyli",
+        "options": [
+            "мало",
+            "вечір",
+            "тобто",
+            "провина"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "spojrzenie",
+        "options": [
+            "пат",
+            "погляд",
+            "дитина",
+            "святий"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "około",
+        "options": [
+            "живіт",
+            "період",
+            "приблизно",
+            "ліс"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zaledwie",
+        "options": [
+            "довго",
+            "людина",
+            "очі",
+            "ледве"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "spokój",
+        "options": [
+            "дуже",
+            "близько",
+            "спокій",
+            "груди"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "moment",
+        "options": [
+            "думка",
+            "історія",
+            "невпинно",
+            "момент"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wczoraj",
+        "options": [
+            "період",
+            "шкода",
+            "отже",
+            "вчора"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "gwałtownie",
+        "options": [
+            "різко",
+            "мама",
+            "особливо",
+            "на"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "pokój",
+        "options": [
+            "поговорити",
+            "розмовляти",
+            "мир",
+            "сніг"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "chłopiec",
+        "options": [
+            "хлопець",
+            "бути",
+            "випадок",
+            "їхати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wzdłuż",
+        "options": [
+            "інколи",
+            "слухати",
+            "як",
+            "вздовж"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "przeciwko",
+        "options": [
+            "напевно",
+            "ріж",
+            "незважаючи",
+            "проти"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "bok",
+        "options": [
+            "завтра",
+            "судно",
+            "бік",
+            "шеф"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pomocy",
+        "options": [
+            "радій",
+            "старик",
+            "потрібно",
+            "допомоги"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "cisza",
+        "options": [
+            "мав",
+            "тиша",
+            "ох",
+            "пістолет"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nowy",
+        "options": [
+            "згідно",
+            "план",
+            "новий",
+            "збоку"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "stać",
+        "options": [
+            "будівля",
+            "добрий",
+            "поручик",
+            "стояти"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ależ",
+        "options": [
+            "свобода",
+            "алеж",
+            "були",
+            "рішуче"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ból",
+        "options": [
+            "дев'ять",
+            "біль",
+            "щастя",
+            "поглянути"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "okno",
+        "options": [
+            "мова",
+            "вікно",
+            "коли-небудь",
+            "власний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ciężko",
+        "options": [
+            "боротьба",
+            "дружина",
+            "шуми",
+            "важко"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "syn",
+        "options": [
+            "значно",
+            "вигляд",
+            "син",
+            "плече"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "myśleć",
+        "options": [
+            "думати",
+            "колись",
+            "гостро",
+            "прагнення"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "czasami",
+        "options": [
+            "як",
+            "охоче",
+            "інколи",
+            "неодноразово"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wszędzie",
+        "options": [
+            "ніякий",
+            "всюди",
+            "перед",
+            "незвичайно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "odpowiedź",
+        "options": [
+            "ляк",
+            "власне",
+            "син",
+            "відповідь"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "obraz",
+        "options": [
+            "важкий",
+            "дозволити",
+            "стояти",
+            "картина"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "sto",
+        "options": [
+            "сто",
+            "мерщій",
+            "замок",
+            "двадцять"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "krok",
+        "options": [
+            "цілком",
+            "майже",
+            "місяць",
+            "крок"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "rok",
+        "options": [
+            "тільки",
+            "слухати",
+            "північ",
+            "рік"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "statek",
+        "options": [
+            "новий",
+            "сильний",
+            "судно",
+            "розповідь"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "żyć",
+        "options": [
+            "справа",
+            "зараз",
+            "оскільки",
+            "життів"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ledwie",
+        "options": [
+            "ряд",
+            "ледве",
+            "кинути",
+            "всі"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "postać",
+        "options": [
+            "музика",
+            "капітан",
+            "постать",
+            "жінка"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "owszem",
+        "options": [
+            "але",
+            "необхідно",
+            "позбавлень",
+            "охоче"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dokąd",
+        "options": [
+            "куди",
+            "занадто",
+            "може",
+            "ні"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "szczególnie",
+        "options": [
+            "особливо",
+            "віддати",
+            "щось",
+            "незабаром"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "sześć",
+        "options": [
+            "стане",
+            "шість",
+            "завдяки",
+            "вечір"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "znak",
+        "options": [
+            "знак",
+            "особливо",
+            "шматок",
+            "серед"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "brat",
+        "options": [
+            "залишитися",
+            "упіймати",
+            "ряд",
+            "брат"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ruch",
+        "options": [
+            "зустріти",
+            "поки",
+            "рух",
+            "дорога"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "los",
+        "options": [
+            "залишити",
+            "доля",
+            "натомість",
+            "працювати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "jakże",
+        "options": [
+            "якже",
+            "вручи",
+            "чорний",
+            "вигляд"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "brak",
+        "options": [
+            "частково",
+            "дати",
+            "брак",
+            "часто"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wieczór",
+        "options": [
+            "суддя",
+            "збоку",
+            "вечір",
+            "чогось"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "uśmiech",
+        "options": [
+            "він",
+            "історія",
+            "двоє",
+            "посмішка"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "sen",
+        "options": [
+            "гострий",
+            "говорити",
+            "сон",
+            "старанно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pomysł",
+        "options": [
+            "задум",
+            "наступний",
+            "місяць",
+            "ти"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "długi",
+        "options": [
+            "папір",
+            "свобода",
+            "імперія",
+            "борги"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "chwila",
+        "options": [
+            "хвилина",
+            "ледве",
+            "дороги",
+            "з"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "woda",
+        "options": [
+            "вода",
+            "відкрити",
+            "першніж",
+            "завтра"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zza",
+        "options": [
+            "розуміти",
+            "з-за",
+            "чоловік",
+            "розмовляти"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "fakt",
+        "options": [
+            "факт",
+            "із-за",
+            "прагнення",
+            "різко"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wyraz",
+        "options": [
+            "почути",
+            "стане",
+            "вираз",
+            "напевне"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ogień",
+        "options": [
+            "вогонь",
+            "достатньо",
+            "хоч",
+            "сказати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "uważnie",
+        "options": [
+            "бідний",
+            "уважно",
+            "милий",
+            "високий"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "chłopak",
+        "options": [
+            "голос",
+            "більшість",
+            "хлопець",
+            "несподівано"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wyłącznie",
+        "options": [
+            "обережно",
+            "виключно",
+            "сніданок",
+            "зв'язок"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "cokolwiek",
+        "options": [
+            "вік",
+            "північ",
+            "щоправда",
+            "що-небудь"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zrozumieć",
+        "options": [
+            "зрозуміти",
+            "прийти",
+            "його",
+            "носилки"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "akurat",
+        "options": [
+            "зрозуміти",
+            "загашай",
+            "сто",
+            "саме"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "samochód",
+        "options": [
+            "щож",
+            "автомобіль",
+            "напад",
+            "щоденно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wiadomość",
+        "options": [
+            "повідомлення",
+            "старик",
+            "напевно",
+            "запах"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "naprzód",
+        "options": [
+            "вперед",
+            "частково",
+            "сестра",
+            "посада"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "numer",
+        "options": [
+            "твій",
+            "номер",
+            "понад",
+            "тут"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wrócić",
+        "options": [
+            "повернутися",
+            "низ",
+            "через",
+            "бо"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "nazwisko",
+        "options": [
+            "помилка",
+            "двадцять",
+            "прізвище",
+            "кінь"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ni",
+        "options": [
+            "ні",
+            "колись",
+            "кінь",
+            "крім"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wprawdzie",
+        "options": [
+            "щоправда",
+            "мило",
+            "кохання",
+            "передусім"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "krótko",
+        "options": [
+            "план",
+            "якби",
+            "коротко",
+            "долоня"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zgodnie",
+        "options": [
+            "згідно",
+            "отже",
+            "чим",
+            "укриттів"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "czoło",
+        "options": [
+            "чоло",
+            "страшно",
+            "лічити",
+            "берег"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wysoko",
+        "options": [
+            "високо",
+            "хліб",
+            "вухо",
+            "лише"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "widzieć",
+        "options": [
+            "бачити",
+            "комусь",
+            "задум",
+            "абсолютно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wina",
+        "options": [
+            "спішно",
+            "бідний",
+            "провина",
+            "рана"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pomoc",
+        "options": [
+            "певний",
+            "подібно",
+            "вчора",
+            "допомога"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "kiedykolwiek",
+        "options": [
+            "читати",
+            "звідти",
+            "факт",
+            "коли-небудь"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "oboje",
+        "options": [
+            "відголос",
+            "сильний",
+            "проте",
+            "обидва"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "rozdział",
+        "options": [
+            "готовий",
+            "розділ",
+            "спогад",
+            "сонце"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "strach",
+        "options": [
+            "вплив",
+            "колись",
+            "страх",
+            "шість"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "spotkanie",
+        "options": [
+            "поет",
+            "рух",
+            "зустріч",
+            "запах"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "dosyć",
+        "options": [
+            "недуже",
+            "відповісти",
+            "досить",
+            "наступний"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "szeroko",
+        "options": [
+            "наслідок",
+            "написати",
+            "випадок",
+            "широко"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dwaj",
+        "options": [
+            "охоче",
+            "боротьба",
+            "згідно",
+            "два"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "oko",
+        "options": [
+            "чоловік",
+            "швидко",
+            "долоня",
+            "око"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zapach",
+        "options": [
+            "запах",
+            "сніданок",
+            "старик",
+            "передусім"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wziąć",
+        "options": [
+            "над",
+            "взяти",
+            "відколи",
+            "рік"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zabić",
+        "options": [
+            "воювати",
+            "вбивств",
+            "завдання",
+            "гнів"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "tłum",
+        "options": [
+            "живіт",
+            "том",
+            "взяти",
+            "загашай"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "toteż",
+        "options": [
+            "рішуче",
+            "тому",
+            "все",
+            "сердечно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "czekać",
+        "options": [
+            "шкіра",
+            "пояснити",
+            "чекати",
+            "наслідок"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "stan",
+        "options": [
+            "стан",
+            "особисто",
+            "м'яко",
+            "напад"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "brew",
+        "options": [
+            "недовго",
+            "твій",
+            "люд",
+            "брова"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "trzydzieści",
+        "options": [
+            "досить",
+            "мало",
+            "тридцять",
+            "спати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "jednakże",
+        "options": [
+            "потужний",
+            "безмірно",
+            "проте",
+            "відношенням"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "oddech",
+        "options": [
+            "двоє",
+            "а",
+            "поки",
+            "дихання"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "późno",
+        "options": [
+            "рана",
+            "чужак",
+            "пізно",
+            "тутже"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "przeciw",
+        "options": [
+            "неодноразово",
+            "дійти",
+            "весьчас",
+            "przeciw"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "głowa",
+        "options": [
+            "напроти",
+            "голова",
+            "будівля",
+            "лічити"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "oprócz",
+        "options": [
+            "так",
+            "себе",
+            "крім",
+            "винен"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "dźwięk",
+        "options": [
+            "взнати",
+            "шкода",
+            "звук",
+            "особливо"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "cień",
+        "options": [
+            "вигук",
+            "легко",
+            "віддати",
+            "тінь"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zarówno",
+        "options": [
+            "навчити",
+            "однаково",
+            "який",
+            "вимови"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "czyż",
+        "options": [
+            "гей",
+            "гнів",
+            "їх",
+            "чиж"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "chętnie",
+        "options": [
+            "ох",
+            "говорити",
+            "ba",
+            "охоче"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "mama",
+        "options": [
+            "загашай",
+            "тоді",
+            "мама",
+            "спокійний"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "szukać",
+        "options": [
+            "хтось",
+            "часом",
+            "дно",
+            "шукати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dostać",
+        "options": [
+            "одержати",
+            "взнати",
+            "контакт",
+            "хоч"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "niezbyt",
+        "options": [
+            "недуже",
+            "привід",
+            "спокійний",
+            "зрештою"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dowiedzieć",
+        "options": [
+            "контакт",
+            "dowiedzieć",
+            "спокійно",
+            "анітрохи"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "mnóstwo",
+        "options": [
+            "безліч",
+            "нічого",
+            "відношенням",
+            "картина"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "obecnie",
+        "options": [
+            "прекрасний",
+            "тепер",
+            "голова",
+            "коридор"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "niezwykle",
+        "options": [
+            "незвичайно",
+            "природно",
+            "розум",
+            "головне"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "uczucie",
+        "options": [
+            "почуття",
+            "перейти",
+            "сьогодні",
+            "робота"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "południe",
+        "options": [
+            "південь",
+            "якже",
+            "спокійно",
+            "братія"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "poważnie",
+        "options": [
+            "поважно",
+            "повідношеннюдо",
+            "тисяча",
+            "щось"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "podobno",
+        "options": [
+            "напевно",
+            "мабуть",
+            "стан",
+            "перед"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "stamtąd",
+        "options": [
+            "звідти",
+            "почуття",
+            "вождь",
+            "привіт"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "morze",
+        "options": [
+            "грає",
+            "дихання",
+            "море",
+            "територія"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "dziwnie",
+        "options": [
+            "небагато",
+            "необхідно",
+            "третій",
+            "дивно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wyjść",
+        "options": [
+            "план",
+            "юнак",
+            "виходів",
+            "дивний"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kawałek",
+        "options": [
+            "шматок",
+            "цілком",
+            "незабаром",
+            "зимно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "naturalnie",
+        "options": [
+            "кого",
+            "недавно",
+            "міцно",
+            "природно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "telefon",
+        "options": [
+            "поважно",
+            "крім",
+            "телефон",
+            "генерал"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wewnątrz",
+        "options": [
+            "усередині",
+            "відстань",
+            "настрой",
+            "особисто"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "problem",
+        "options": [
+            "ох",
+            "відомо",
+            "досконало",
+            "проблема"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "język",
+        "options": [
+            "сигнал",
+            "рідко",
+            "язик",
+            "обід"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "czarny",
+        "options": [
+            "момент",
+            "dowiedzieć",
+            "ряд",
+            "чорний"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "stół",
+        "options": [
+            "стіл",
+            "початково",
+            "три",
+            "дані"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wręcz",
+        "options": [
+            "бачити",
+            "дуже",
+            "борги",
+            "вручи"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "gotów",
+        "options": [
+            "готовий",
+            "коли-небудь",
+            "окрім",
+            "тобто"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "słychać",
+        "options": [
+            "стояти",
+            "вважати",
+            "зовні",
+            "чути"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ksiądz",
+        "options": [
+            "священик",
+            "частина",
+            "предмет",
+            "власний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "poznać",
+        "options": [
+            "суддя",
+            "взнати",
+            "аджеж",
+            "хліб"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wypadek",
+        "options": [
+            "характер",
+            "випадок",
+            "нагадати",
+            "непевно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "profesor",
+        "options": [
+            "день",
+            "якщо",
+            "швидко",
+            "професор"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "spać",
+        "options": [
+            "спати",
+            "навіть",
+            "пат",
+            "чудово"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ostatnio",
+        "options": [
+            "хазяїн",
+            "повідношеннюдо",
+            "погляд",
+            "останнімчасом"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "siostra",
+        "options": [
+            "сутінки",
+            "сестра",
+            "або",
+            "юнак"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "póki",
+        "options": [
+            "зчисла",
+            "поки",
+            "безліч",
+            "показати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "starannie",
+        "options": [
+            "справа",
+            "старанно",
+            "останнімчасом",
+            "караульний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "szczerze",
+        "options": [
+            "навпіл",
+            "слід",
+            "щиро",
+            "досить"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zamiar",
+        "options": [
+            "пиво",
+            "людина",
+            "говорити",
+            "намір"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ziemia",
+        "options": [
+            "дружина",
+            "пан",
+            "земля",
+            "майже"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "tamten",
+        "options": [
+            "свій",
+            "той",
+            "як",
+            "перед"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pójść",
+        "options": [
+            "просувань",
+            "імперія",
+            "увійти",
+            "тридцять"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "plan",
+        "options": [
+            "боротьба",
+            "використати",
+            "план",
+            "явити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zabrać",
+        "options": [
+            "спокійно",
+            "прекрасно",
+            "забрати",
+            "чи"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wysoki",
+        "options": [
+            "коли",
+            "високий",
+            "спішно",
+            "саме"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pies",
+        "options": [
+            "замість",
+            "собака",
+            "зовні",
+            "частина"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "szkoda",
+        "options": [
+            "взнати",
+            "безмірно",
+            "шкода",
+            "сидіти"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "las",
+        "options": [
+            "ліс",
+            "ксьондз",
+            "поки",
+            "отже"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "trzeci",
+        "options": [
+            "непевно",
+            "пристосовуй",
+            "мав",
+            "третій"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "widocznie",
+        "options": [
+            "потрібний",
+            "тридцять",
+            "вочевидь",
+            "відкрити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "rzadko",
+        "options": [
+            "рідко",
+            "різко",
+            "постійно",
+            "милий"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "sporo",
+        "options": [
+            "багато",
+            "сила",
+            "чимало",
+            "поважно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pełen",
+        "options": [
+            "можливо",
+            "повний",
+            "обличчя",
+            "недуже"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przyznać",
+        "options": [
+            "почуттів",
+            "значно",
+            "визнати",
+            "сигнал"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "byle",
+        "options": [
+            "поручик",
+            "тількиб",
+            "ага",
+            "чути"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ono",
+        "options": [
+            "тутже",
+            "воно",
+            "вітер",
+            "майже"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "umysł",
+        "options": [
+            "дозволити",
+            "розум",
+            "завжди",
+            "пізно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "historia",
+        "options": [
+            "перед",
+            "історія",
+            "навіть",
+            "він"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "rozkaz",
+        "options": [
+            "наказ",
+            "тиждень",
+            "квартира",
+            "тільки"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "tydzień",
+        "options": [
+            "спини",
+            "старик",
+            "тиждень",
+            "три"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "patrzeć",
+        "options": [
+            "безмірно",
+            "дивитися",
+            "сенс",
+            "ніч"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "reszta",
+        "options": [
+            "собі",
+            "вождь",
+            "решта",
+            "меч"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nos",
+        "options": [
+            "чиж",
+            "ніс",
+            "порадити",
+            "своє"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przyjaciel",
+        "options": [
+            "мур",
+            "обидва",
+            "справді",
+            "приятель"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "cel",
+        "options": [
+            "декілька",
+            "мета",
+            "досить",
+            "папір"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "sprawdzić",
+        "options": [
+            "всьоголише",
+            "перевірити",
+            "проблема",
+            "чотири"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "poprzez",
+        "options": [
+            "настрой",
+            "тітка",
+            "через",
+            "дивно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "podróż",
+        "options": [
+            "радість",
+            "можливість",
+            "подорож",
+            "або"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "miecz",
+        "options": [
+            "люд",
+            "недовго",
+            "меч",
+            "згідно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "działo",
+        "options": [
+            "разом",
+            "франк",
+            "інколи",
+            "в'язало"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "strasznie",
+        "options": [
+            "страшно",
+            "інший",
+            "прекрасно",
+            "мати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "generał",
+        "options": [
+            "чужак",
+            "генерал",
+            "напад",
+            "твій"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "osobiście",
+        "options": [
+            "боротьба",
+            "опустити",
+            "серед",
+            "особисто"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "przykro",
+        "options": [
+            "два",
+            "до",
+            "прикро",
+            "дівчина"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zarazem",
+        "options": [
+            "робота",
+            "разомзтим",
+            "мета",
+            "швидко"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pomimo",
+        "options": [
+            "крім",
+            "пустий",
+            "якщо",
+            "ніби"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kamień",
+        "options": [
+            "музика",
+            "каміння",
+            "держава",
+            "швидко"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "lewo",
+        "options": [
+            "його",
+            "ліво",
+            "відповісти",
+            "досить"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "deszcz",
+        "options": [
+            "два",
+            "пат",
+            "хто-небудь",
+            "дощ"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "potrzeba",
+        "options": [
+            "захід",
+            "потрібно",
+            "непокой",
+            "початок"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "znać",
+        "options": [
+            "центр",
+            "знати",
+            "ba",
+            "тільки"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "moc",
+        "options": [
+            "при",
+            "сила",
+            "потім",
+            "інший"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zły",
+        "options": [
+            "ввічливо",
+            "поганий",
+            "дані",
+            "дух"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wejść",
+        "options": [
+            "холера",
+            "увійти",
+            "своє",
+            "замість"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pamięć",
+        "options": [
+            "змінити",
+            "взаємно",
+            "пам'ять",
+            "показати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nareszcie",
+        "options": [
+            "мета",
+            "мати",
+            "прикро",
+            "нарешті"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "przekonać",
+        "options": [
+            "переконати",
+            "страшно",
+            "тому",
+            "відголос"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "udział",
+        "options": [
+            "дівчина",
+            "bob",
+            "участь",
+            "суддя"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kolejny",
+        "options": [
+            "наступний",
+            "чогось",
+            "майже",
+            "дівчина"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "świetnie",
+        "options": [
+            "розум",
+            "позбавлень",
+            "загашай",
+            "чудово"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ostatecznie",
+        "options": [
+            "знати",
+            "залишити",
+            "остаточно",
+            "написати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "tom",
+        "options": [
+            "уважно",
+            "дерево",
+            "том",
+            "зір"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zdanie",
+        "options": [
+            "думка",
+            "дуже",
+            "зручно",
+            "наш"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wojna",
+        "options": [
+            "забрати",
+            "війна",
+            "ходити",
+            "імперія"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "rozmawiać",
+        "options": [
+            "розмовляти",
+            "ох",
+            "відчуттів",
+            "щож"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "istotnie",
+        "options": [
+            "суттєво",
+            "пояснити",
+            "зробити",
+            "натомість"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "otóż",
+        "options": [
+            "кохання",
+            "вечір",
+            "крім",
+            "такот"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ręka",
+        "options": [
+            "отже",
+            "рука",
+            "вуха",
+            "почути"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "niedawno",
+        "options": [
+            "справді",
+            "такий",
+            "недавно",
+            "сила"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "plecy",
+        "options": [
+            "звідси",
+            "удержати",
+            "спини",
+            "вечір"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "duży",
+        "options": [
+            "великий",
+            "завтра",
+            "рідко",
+            "перед"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "rana",
+        "options": [
+            "рана",
+            "часом",
+            "потрібний",
+            "зчисла"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "córka",
+        "options": [
+            "факт",
+            "заголовок",
+            "крок",
+            "донька"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ślad",
+        "options": [
+            "колись",
+            "слабко",
+            "його",
+            "слід"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pięćdziesiąt",
+        "options": [
+            "п'ятдесят",
+            "вхід",
+            "щоденно",
+            "закінчити"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ostro",
+        "options": [
+            "шкіра",
+            "знищити",
+            "туман",
+            "гостро"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dookoła",
+        "options": [
+            "довкола",
+            "тема",
+            "щож",
+            "граф"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "nigdzie",
+        "options": [
+            "розповісти",
+            "ніде",
+            "стояти",
+            "спини"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "siedem",
+        "options": [
+            "відкрити",
+            "сім",
+            "використати",
+            "мета"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nóż",
+        "options": [
+            "почати",
+            "стілець",
+            "ніж",
+            "сміх"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "jechać",
+        "options": [
+            "їхати",
+            "нічого",
+            "загашай",
+            "повітря"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ciotka",
+        "options": [
+            "останнімчасом",
+            "вухо",
+            "тітка",
+            "ні"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nowo",
+        "options": [
+            "хлопець",
+            "поза",
+            "ново",
+            "офіцер"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "mary",
+        "options": [
+            "останній",
+            "вести",
+            "голос",
+            "носилки"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "nieraz",
+        "options": [
+            "сніданок",
+            "неодноразово",
+            "певність",
+            "життя"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "spotkać",
+        "options": [
+            "зустріти",
+            "дім",
+            "проблема",
+            "люд"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "czyżby",
+        "options": [
+            "хіба",
+            "п'ятнадцять",
+            "холера",
+            "на"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wpół",
+        "options": [
+            "жінка",
+            "ксьондз",
+            "навпіл",
+            "зробити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "sytuacja",
+        "options": [
+            "ситуація",
+            "колись",
+            "що",
+            "відверто"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wyobrazić",
+        "options": [
+            "щастя",
+            "світ",
+            "уявити",
+            "розмова"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "delikatnie",
+        "options": [
+            "делікатно",
+            "особливо",
+            "ми",
+            "безсумнівно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zazwyczaj",
+        "options": [
+            "затримати",
+            "давно",
+            "зазвичай",
+            "закінчити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "powstrzymać",
+        "options": [
+            "страшно",
+            "залишити",
+            "стримати",
+            "стане"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pozwolić",
+        "options": [
+            "коротко",
+            "лікар",
+            "говорити",
+            "дозволити"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dotychczas",
+        "options": [
+            "донині",
+            "решта",
+            "досить",
+            "повернути"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "krzyk",
+        "options": [
+            "крик",
+            "справді",
+            "стілець",
+            "кохання"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zadanie",
+        "options": [
+            "місто",
+            "безпосередньо",
+            "завдання",
+            "служити"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kształt",
+        "options": [
+            "його",
+            "рідко",
+            "вигляд",
+            "були"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wierzyć",
+        "options": [
+            "шкіра",
+            "вірити",
+            "tato",
+            "аджеж"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pośród",
+        "options": [
+            "явити",
+            "імовірно",
+            "виходів",
+            "серед"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "facet",
+        "options": [
+            "дружина",
+            "брак",
+            "хлопець",
+            "відповідь"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zachód",
+        "options": [
+            "відношенням",
+            "захід",
+            "широко",
+            "ресурс"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "uwierzyć",
+        "options": [
+            "повірити",
+            "ніщо",
+            "але",
+            "змінити"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "koń",
+        "options": [
+            "кінь",
+            "навіть",
+            "темрява",
+            "тимчасом"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "lekarz",
+        "options": [
+            "між",
+            "шматок",
+            "лікар",
+            "переживань"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pułkownik",
+        "options": [
+            "ледве",
+            "вочевидь",
+            "бік",
+            "полковник"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "porozmawiać",
+        "options": [
+            "поговорити",
+            "дані",
+            "кохання",
+            "повідношеннюдо"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "poczucie",
+        "options": [
+            "факт",
+            "невпинно",
+            "відчуття",
+            "група"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "niegdyś",
+        "options": [
+            "мерщій",
+            "колись",
+            "стане",
+            "бо"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dokoła",
+        "options": [
+            "ліво",
+            "вона",
+            "навколо",
+            "взяти"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "północ",
+        "options": [
+            "щож",
+            "взяти",
+            "північ",
+            "особа"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "osiem",
+        "options": [
+            "згідно",
+            "думати",
+            "вісім",
+            "безсумнівно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "powrót",
+        "options": [
+            "король",
+            "повернення",
+            "серце",
+            "вдати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ton",
+        "options": [
+            "декілька",
+            "тон",
+            "плющ",
+            "розуміти"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "znaczenie",
+        "options": [
+            "багато",
+            "мати",
+            "значення",
+            "мав"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "rodzina",
+        "options": [
+            "подумати",
+            "нарешті",
+            "ясно",
+            "сім'я"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "klucz",
+        "options": [
+            "нікого",
+            "петляй",
+            "період",
+            "нічого"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ukryć",
+        "options": [
+            "вогонь",
+            "укриттів",
+            "повільно",
+            "сказати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "żal",
+        "options": [
+            "żal",
+            "новий",
+            "тоді",
+            "вздовж"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "oficer",
+        "options": [
+            "крок",
+            "офіцер",
+            "оскільки",
+            "три"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zatrzymać",
+        "options": [
+            "затримати",
+            "глибоко",
+            "пристосовуй",
+            "зазвичай"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "liczyć",
+        "options": [
+            "щораз",
+            "десять",
+            "дійти",
+            "лічити"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "przejść",
+        "options": [
+            "чимось",
+            "перейти",
+            "щастя",
+            "почути"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zimno",
+        "options": [
+            "завтра",
+            "зимно",
+            "капелюх",
+            "над"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "głąb",
+        "options": [
+            "коли-небудь",
+            "глибина",
+            "зрештою",
+            "ніж"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "łagodnie",
+        "options": [
+            "двоє",
+            "м'яко",
+            "годинник",
+            "в'яже"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "tysiąc",
+        "options": [
+            "тисяча",
+            "збоку",
+            "себе",
+            "намір"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zmienić",
+        "options": [
+            "удар",
+            "змінити",
+            "жінка",
+            "тут"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "praca",
+        "options": [
+            "робота",
+            "безпосередньо",
+            "чужак",
+            "стан"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "bob",
+        "options": [
+            "bob",
+            "правда",
+            "з",
+            "ліжко"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "jedyny",
+        "options": [
+            "темрява",
+            "приблизно",
+            "єдиний",
+            "відповісти"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "obecność",
+        "options": [
+            "присутність",
+            "чоловік",
+            "більшість",
+            "море"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ciemność",
+        "options": [
+            "отже",
+            "мама",
+            "чоловік",
+            "темрява"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "przyszłość",
+        "options": [
+            "генерал",
+            "вдати",
+            "майбутнє",
+            "гнів"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "słyszeć",
+        "options": [
+            "десь",
+            "чути",
+            "охоче",
+            "постійно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "odpowiedzieć",
+        "options": [
+            "але",
+            "відповісти",
+            "кільканадцять",
+            "спокійно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "uczynić",
+        "options": [
+            "свідомість",
+            "лише",
+            "пристосовуй",
+            "зробити"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dziewczynka",
+        "options": [
+            "дівчинка",
+            "куди",
+            "значно",
+            "принаймні"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "piękny",
+        "options": [
+            "прекрасний",
+            "з-за",
+            "грати",
+            "поки"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "podobny",
+        "options": [
+            "схожий",
+            "шеф",
+            "дрібне",
+            "увечері"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "głównie",
+        "options": [
+            "решта",
+            "bob",
+            "головне",
+            "хтож"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "prócz",
+        "options": [
+            "крім",
+            "великий",
+            "потрібно",
+            "окрім"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "stale",
+        "options": [
+            "постійно",
+            "коротко",
+            "якщо",
+            "ресурс"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "siła",
+        "options": [
+            "вдати",
+            "сила",
+            "передусім",
+            "який"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "niekiedy",
+        "options": [
+            "двадцять",
+            "якщо",
+            "саме",
+            "інколи"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "absolutnie",
+        "options": [
+            "на",
+            "абсолютно",
+            "судно",
+            "безперервно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "radość",
+        "options": [
+            "радість",
+            "десь",
+            "година",
+            "відверто"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "brzeg",
+        "options": [
+            "хочби",
+            "неодноразово",
+            "зрозуміти",
+            "берег"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "centrum",
+        "options": [
+            "біль",
+            "центр",
+            "прикро",
+            "нагадати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zdobyć",
+        "options": [
+            "здобуття",
+            "десь",
+            "такот",
+            "хіба"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "świadomość",
+        "options": [
+            "здоров'я",
+            "свідомість",
+            "відповісти",
+            "вона"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zachować",
+        "options": [
+            "зберегти",
+            "то",
+            "справа",
+            "рано"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "względem",
+        "options": [
+            "знайти",
+            "спішно",
+            "відношенням",
+            "комусь"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "państwo",
+        "options": [
+            "ледве",
+            "держава",
+            "кого",
+            "випадок"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "niedługo",
+        "options": [
+            "сон",
+            "посмішка",
+            "винен",
+            "недовго"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zegarek",
+        "options": [
+            "борги",
+            "тобто",
+            "годинник",
+            "справді"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "punkt",
+        "options": [
+            "брак",
+            "високо",
+            "раз",
+            "рівно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "śnieg",
+        "options": [
+            "петляй",
+            "відверто",
+            "сніг",
+            "когось"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "niedaleko",
+        "options": [
+            "врешті",
+            "хіба",
+            "участь",
+            "недалеко"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "prawdziwy",
+        "options": [
+            "справжній",
+            "офіцер",
+            "особисто",
+            "повідомлення"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "równocześnie",
+        "options": [
+            "стіл",
+            "караульний",
+            "одночасно",
+            "лише"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "gra",
+        "options": [
+            "удар",
+            "зазвичай",
+            "навколо",
+            "грає"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pewny",
+        "options": [
+            "обидва",
+            "мерщій",
+            "щоправда",
+            "певний"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "rozmowa",
+        "options": [
+            "розмова",
+            "отже",
+            "першніж",
+            "вечір"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "pole",
+        "options": [
+            "нараз",
+            "поле",
+            "гострий",
+            "чудово"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wóz",
+        "options": [
+            "бік",
+            "п'ятдесят",
+            "ввічливо",
+            "автомобіль"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "trzymać",
+        "options": [
+            "кінь",
+            "спини",
+            "тема",
+            "тримати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ledwo",
+        "options": [
+            "досить",
+            "ледве",
+            "через",
+            "стояти"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "aha",
+        "options": [
+            "зробити",
+            "ага",
+            "мало",
+            "донька"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "własny",
+        "options": [
+            "погано",
+            "хтось",
+            "власний",
+            "собі"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "stanowczo",
+        "options": [
+            "всі",
+            "увійти",
+            "підвищити",
+            "рішуче"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "cześć",
+        "options": [
+            "привіт",
+            "ніхто",
+            "почути",
+            "єдиний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "pokazać",
+        "options": [
+            "ніколи",
+            "показати",
+            "тепер",
+            "все"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "czterdzieści",
+        "options": [
+            "зрозуміти",
+            "навколо",
+            "врешті",
+            "сорок"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wschód",
+        "options": [
+            "стілець",
+            "заголовок",
+            "голова",
+            "схід"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pisać",
+        "options": [
+            "раз",
+            "чорний",
+            "писати",
+            "низько"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "specjalnie",
+        "options": [
+            "спеціально",
+            "напад",
+            "той",
+            "алеж"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "obcy",
+        "options": [
+            "чужак",
+            "багато",
+            "стіл",
+            "той"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "obiad",
+        "options": [
+            "обід",
+            "її",
+            "подумати",
+            "генерал"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dziwny",
+        "options": [
+            "але",
+            "приймайгостей",
+            "дивний",
+            "враження"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "księżyc",
+        "options": [
+            "місяць",
+            "старанно",
+            "пристосовуй",
+            "ліс"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zająć",
+        "options": [
+            "аджеж",
+            "святий",
+            "дівчинка",
+            "зайняти"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pracować",
+        "options": [
+            "мерщій",
+            "ага",
+            "рушити",
+            "працювати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "przestrzeń",
+        "options": [
+            "простір",
+            "на",
+            "ресурс",
+            "голос"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "milczenie",
+        "options": [
+            "собака",
+            "голова",
+            "показати",
+            "мовчання"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "głupi",
+        "options": [
+            "почуття",
+            "глибокий",
+            "ясно",
+            "глупий"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "czytać",
+        "options": [
+            "читати",
+            "тихий",
+            "спокійно",
+            "дати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dane",
+        "options": [
+            "дані",
+            "брат",
+            "разомзтим",
+            "хто"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dotrzeć",
+        "options": [
+            "добратися",
+            "відверто",
+            "потім",
+            "син"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ucha",
+        "options": [
+            "посада",
+            "żal",
+            "вуха",
+            "показати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "niewątpliwie",
+        "options": [
+            "безсумнівно",
+            "тепло",
+            "два",
+            "пояснити"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "możliwość",
+        "options": [
+            "неодноразово",
+            "волосся",
+            "можливість",
+            "зазвичай"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "słuchać",
+        "options": [
+            "діяти",
+            "певність",
+            "сім",
+            "слухати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "spojrzeć",
+        "options": [
+            "істота",
+            "поглянути",
+            "хіба",
+            "сім"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "płaszcz",
+        "options": [
+            "безсумнівно",
+            "плющ",
+            "вперед",
+            "потім"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ubranie",
+        "options": [
+            "нетерпляче",
+            "собі",
+            "ніби",
+            "одяг"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "kraj",
+        "options": [
+            "ніж",
+            "слід",
+            "ріж",
+            "земля"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "piętnaście",
+        "options": [
+            "виходів",
+            "недалеко",
+            "юнак",
+            "п'ятнадцять"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "prędko",
+        "options": [
+            "вага",
+            "сходи",
+            "тон",
+            "мерщій"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "doprawdy",
+        "options": [
+            "шкода",
+            "від",
+            "близько",
+            "справді"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "śmiech",
+        "options": [
+            "повітря",
+            "світ",
+            "уявити",
+            "сміх"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "jasno",
+        "options": [
+            "думати",
+            "ясно",
+            "кохання",
+            "запитати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "odejść",
+        "options": [
+            "оскільки",
+            "їсти",
+            "відійти",
+            "однак"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "błąd",
+        "options": [
+            "майже",
+            "першніж",
+            "останки",
+            "помилка"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "niebezpieczeństwo",
+        "options": [
+            "братія",
+            "ніч",
+            "небезпека",
+            "те"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ciepło",
+        "options": [
+            "тепло",
+            "більшість",
+            "проти",
+            "здоров'я"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wcześnie",
+        "options": [
+            "достатньо",
+            "справді",
+            "рано",
+            "од"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pewność",
+        "options": [
+            "потрібний",
+            "певність",
+            "жахливо",
+            "задоволення"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pistolet",
+        "options": [
+            "охоче",
+            "те",
+            "війна",
+            "пістолет"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "gniew",
+        "options": [
+            "вручи",
+            "гнів",
+            "поліція",
+            "ba"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "korytarz",
+        "options": [
+            "забрати",
+            "коридор",
+            "просувань",
+            "сходи"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "związek",
+        "options": [
+            "зв'язок",
+            "старанно",
+            "тема",
+            "також"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "blask",
+        "options": [
+            "зробити",
+            "блиск",
+            "розуміти",
+            "голосно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wracać",
+        "options": [
+            "сильний",
+            "дихання",
+            "правильно",
+            "повертатися"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wyjaśnić",
+        "options": [
+            "пояснити",
+            "свій",
+            "рішуче",
+            "садиба"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "pora",
+        "options": [
+            "давно",
+            "автор",
+            "діяти",
+            "порає"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "silny",
+        "options": [
+            "добрий",
+            "боротьба",
+            "наказ",
+            "сильний"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "nazajutrz",
+        "options": [
+            "петляй",
+            "зауважити",
+            "майбутнє",
+            "завтра"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "utrzymać",
+        "options": [
+            "тисяча",
+            "вдати",
+            "обережно",
+            "удержати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pokład",
+        "options": [
+            "палуба",
+            "служити",
+            "зовні",
+            "тисяча"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "walczyć",
+        "options": [
+            "після",
+            "біль",
+            "воювати",
+            "світло"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "następny",
+        "options": [
+            "дно",
+            "дороги",
+            "завжди",
+            "наступний"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dziadek",
+        "options": [
+            "повідношеннюдо",
+            "дослівно",
+            "дідусь",
+            "тут"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pas",
+        "options": [
+            "хіба",
+            "пояс",
+            "зустріч",
+            "укриттів"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przeciwnie",
+        "options": [
+            "якийсь",
+            "тому",
+            "звідки",
+            "навпаки"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "żołnierz",
+        "options": [
+            "повний",
+            "солдат",
+            "колесо",
+            "людина"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "szef",
+        "options": [
+            "процес",
+            "шеф",
+            "всі",
+            "чимало"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "kochanie",
+        "options": [
+            "чимало",
+            "обід",
+            "кохання",
+            "безпосередньо"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pięknie",
+        "options": [
+            "розділ",
+            "святий",
+            "прекрасно",
+            "коридор"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "chodzić",
+        "options": [
+            "доказ",
+            "просити",
+            "погляд",
+            "ходити"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "osoba",
+        "options": [
+            "особа",
+            "замок",
+            "вода",
+            "кохати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "środek",
+        "options": [
+            "ресурс",
+            "щораз",
+            "ніж",
+            "якось"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dwoje",
+        "options": [
+            "двері",
+            "достатньо",
+            "двоє",
+            "куля"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "atak",
+        "options": [
+            "тримати",
+            "разомзтим",
+            "напад",
+            "але"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wuj",
+        "options": [
+            "також",
+            "шуми",
+            "дядько",
+            "потужний"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "system",
+        "options": [
+            "система",
+            "солдат",
+            "зустріти",
+            "небагато"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "naprzeciw",
+        "options": [
+            "напроти",
+            "сходи",
+            "померти",
+            "добре"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zapytać",
+        "options": [
+            "хай",
+            "кожен",
+            "запитати",
+            "сорок"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "uczuć",
+        "options": [
+            "в",
+            "на",
+            "всі",
+            "почуттів"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "drzewo",
+        "options": [
+            "гей",
+            "дерево",
+            "ріж",
+            "наступний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "grupa",
+        "options": [
+            "відчуттів",
+            "командувач",
+            "система",
+            "група"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "hrabia",
+        "options": [
+            "тоді",
+            "граф",
+            "алеж",
+            "ще"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pośrodku",
+        "options": [
+            "більшість",
+            "ви",
+            "посередині",
+            "задум"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zacząć",
+        "options": [
+            "досконало",
+            "почати",
+            "приятель",
+            "провина"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "rodzaj",
+        "options": [
+            "короткий",
+            "жінка",
+            "крім",
+            "вид"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "palec",
+        "options": [
+            "тихо",
+            "палець",
+            "виключно",
+            "всьоголише"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "duch",
+        "options": [
+            "взнати",
+            "дух",
+            "майор",
+            "саме"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wbrew",
+        "options": [
+            "запах",
+            "одяг",
+            "всупереч",
+            "рік"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "odgłos",
+        "options": [
+            "відголос",
+            "справа",
+            "майор",
+            "кільканадцять"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zapomnieć",
+        "options": [
+            "забути",
+            "раз",
+            "з-за",
+            "можливість"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "major",
+        "options": [
+            "дім",
+            "майор",
+            "нещастя",
+            "віддати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przypomnieć",
+        "options": [
+            "крім",
+            "сила",
+            "час",
+            "нагадати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "łeb",
+        "options": [
+            "знищити",
+            "юнак",
+            "голова",
+            "ресурс"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "teren",
+        "options": [
+            "територія",
+            "право",
+            "коридор",
+            "щораз"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wystarczająco",
+        "options": [
+            "повітря",
+            "досить",
+            "світло",
+            "пам'ять"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przyjąć",
+        "options": [
+            "мало",
+            "а",
+            "прийняти",
+            "звук"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "miło",
+        "options": [
+            "тисяча",
+            "автомобіль",
+            "вранці",
+            "мило"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "codziennie",
+        "options": [
+            "здобуття",
+            "щоденно",
+            "рух",
+            "мерщій"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "początkowo",
+        "options": [
+            "бог",
+            "життя",
+            "початково",
+            "єдиний"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zamek",
+        "options": [
+            "принаймні",
+            "темно",
+            "сказати",
+            "замок"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "przyjemność",
+        "options": [
+            "потім",
+            "задоволення",
+            "саме",
+            "шукати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nerwowo",
+        "options": [
+            "сім'я",
+            "очевидно",
+            "однаково",
+            "нервово"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "spośród",
+        "options": [
+            "добратися",
+            "свята",
+            "невпинно",
+            "зчисла"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "usłyszeć",
+        "options": [
+            "питання",
+            "почути",
+            "каміння",
+            "але"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nieźle",
+        "options": [
+            "непогано",
+            "чоловік",
+            "човен",
+            "до"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "gardło",
+        "options": [
+            "потрібно",
+            "власний",
+            "дівчина",
+            "горло"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "jeść",
+        "options": [
+            "сміх",
+            "навпаки",
+            "їсти",
+            "мозок"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pomyśleć",
+        "options": [
+            "але",
+            "безсумнівно",
+            "простір",
+            "подумати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zostawić",
+        "options": [
+            "залишити",
+            "завжди",
+            "стілець",
+            "поглянути"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wyjątkowo",
+        "options": [
+            "явити",
+            "холера",
+            "винятково",
+            "гнів"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "początek",
+        "options": [
+            "мабуть",
+            "dowiedzieć",
+            "початок",
+            "tato"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "miesiąc",
+        "options": [
+            "три",
+            "заголовок",
+            "місяць",
+            "п'ятнадцять"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "rząd",
+        "options": [
+            "ряд",
+            "твій",
+            "незвичайно",
+            "спокійний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "hej",
+        "options": [
+            "пара",
+            "короткий",
+            "гей",
+            "хочби"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "łódź",
+        "options": [
+            "або",
+            "човен",
+            "завдання",
+            "хвиля"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "otworzyć",
+        "options": [
+            "відкрити",
+            "їхати",
+            "досконало",
+            "від"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "niepokój",
+        "options": [
+            "непокой",
+            "використати",
+            "лишитися",
+            "мало"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "cholera",
+        "options": [
+            "згідно",
+            "перевірити",
+            "холера",
+            "пиво"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "szczęśliwy",
+        "options": [
+            "прекрасний",
+            "двигун",
+            "щасливий",
+            "крок"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "spodnie",
+        "options": [
+            "той",
+            "брюки",
+            "далеко",
+            "але"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "umrzeć",
+        "options": [
+            "спокійно",
+            "ново",
+            "відійти",
+            "померти"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "niepewnie",
+        "options": [
+            "недуже",
+            "думати",
+            "нараз",
+            "непевно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wiek",
+        "options": [
+            "двері",
+            "вік",
+            "щастя",
+            "дані"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "naraz",
+        "options": [
+            "нараз",
+            "тому",
+            "взаємно",
+            "себе"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "złapał",
+        "options": [
+            "упіймав",
+            "лишитися",
+            "куди",
+            "хлопець"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "czerwony",
+        "options": [
+            "потім",
+            "сам",
+            "червоний",
+            "куди"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kupić",
+        "options": [
+            "відношенням",
+            "купити",
+            "чудово",
+            "офіцер"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pociąg",
+        "options": [
+            "удержати",
+            "раніше",
+            "знати",
+            "потяг"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "kontakt",
+        "options": [
+            "комусь",
+            "чимось",
+            "контакт",
+            "позбавлень"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "porucznik",
+        "options": [
+            "обидва",
+            "собака",
+            "поручик",
+            "папір"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "gorąco",
+        "options": [
+            "гаряче",
+            "спокійний",
+            "відомо",
+            "право"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "tył",
+        "options": [
+            "досконало",
+            "посмішка",
+            "повнів",
+            "також"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "niechętnie",
+        "options": [
+            "частина",
+            "ясно",
+            "неохоче",
+            "радість"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "powód",
+        "options": [
+            "привід",
+            "бог",
+            "колись",
+            "борги"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "oddać",
+        "options": [
+            "берег",
+            "напевне",
+            "писати",
+            "віддати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "łóżko",
+        "options": [
+            "ліжко",
+            "глибокий",
+            "бо",
+            "того"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dowód",
+        "options": [
+            "при",
+            "прикро",
+            "доказ",
+            "зовсім"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nieruchomo",
+        "options": [
+            "життів",
+            "непорушно",
+            "до",
+            "вздовж"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "opuścić",
+        "options": [
+            "прагнення",
+            "опустити",
+            "необхідно",
+            "пояснити"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ażeby",
+        "options": [
+            "м'яко",
+            "щоб",
+            "нетерпляче",
+            "одержати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "niespodziewanie",
+        "options": [
+            "багато",
+            "дорога",
+            "дихання",
+            "несподівано"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wesoło",
+        "options": [
+            "якийсь",
+            "хіба",
+            "весело",
+            "сидіти"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "godzina",
+        "options": [
+            "година",
+            "прекрасно",
+            "потужний",
+            "адже"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "odkąd",
+        "options": [
+            "радій",
+            "відколи",
+            "делікатно",
+            "чотири"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "któryś",
+        "options": [
+            "посмішка",
+            "великий",
+            "між",
+            "якийсь"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "okazać",
+        "options": [
+            "явити",
+            "перейти",
+            "капітан",
+            "робота"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "krzesło",
+        "options": [
+            "замок",
+            "здобуття",
+            "стілець",
+            "затримати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "któż",
+        "options": [
+            "хтож",
+            "але",
+            "розум",
+            "чорний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zdecydowanie",
+        "options": [
+            "рішуче",
+            "подумати",
+            "хлопець",
+            "дівчина"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "odległość",
+        "options": [
+            "ніж",
+            "випадок",
+            "відстань",
+            "повернутися"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "mieszkanie",
+        "options": [
+            "куля",
+            "dowiedzieć",
+            "квартира",
+            "особливо"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "oba",
+        "options": [
+            "обидва",
+            "спішно",
+            "слово",
+            "повний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "policja",
+        "options": [
+            "автомобіль",
+            "всі",
+            "поліція",
+            "темрява"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "cios",
+        "options": [
+            "тимчасом",
+            "удар",
+            "свій",
+            "понуро"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "odnaleźć",
+        "options": [
+            "сказати",
+            "відшукати",
+            "ох",
+            "сильний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "spokojny",
+        "options": [
+            "спокійний",
+            "давно",
+            "віддати",
+            "море"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "starzec",
+        "options": [
+            "старик",
+            "блиск",
+            "дороги",
+            "колесо"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "przyjść",
+        "options": [
+            "прийти",
+            "намір",
+            "твій",
+            "зв'язок"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "muzyka",
+        "options": [
+            "нараз",
+            "музика",
+            "відчуттів",
+            "пояс"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nieustannie",
+        "options": [
+            "невпинно",
+            "грати",
+            "можливість",
+            "переживань"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ogromny",
+        "options": [
+            "зайняти",
+            "величезний",
+            "глибоко",
+            "ось"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "potrzebny",
+        "options": [
+            "справжній",
+            "потрібний",
+            "дев'ять",
+            "мабуть"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "słusznie",
+        "options": [
+            "правильно",
+            "навчити",
+            "тутже",
+            "żal"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "działać",
+        "options": [
+            "з-за",
+            "брова",
+            "діяти",
+            "колись"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "sens",
+        "options": [
+            "ні",
+            "хлопець",
+            "сержант",
+            "сенс"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "okropnie",
+        "options": [
+            "тримати",
+            "жахливо",
+            "навпіл",
+            "показати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "fala",
+        "options": [
+            "хвиля",
+            "глибоко",
+            "хіба",
+            "чотири"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ciemno",
+        "options": [
+            "темно",
+            "крім",
+            "повітря",
+            "увечері"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wolność",
+        "options": [
+            "схід",
+            "взнати",
+            "всупереч",
+            "свобода"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dusza",
+        "options": [
+            "відголос",
+            "том",
+            "душа",
+            "звук"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ktokolwiek",
+        "options": [
+            "хто-небудь",
+            "нікого",
+            "повірити",
+            "автомобіль"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wspomnienie",
+        "options": [
+            "відношенням",
+            "потужний",
+            "спогад",
+            "спеціально"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "błyskawicznie",
+        "options": [
+            "обидва",
+            "напад",
+            "директор",
+            "блискавично"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dzieło",
+        "options": [
+            "між",
+            "справа",
+            "хоч",
+            "погано"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pozostać",
+        "options": [
+            "залишитися",
+            "тількиб",
+            "відділ",
+            "першніж"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "bynajmniej",
+        "options": [
+            "знову",
+            "той",
+            "тітка",
+            "анітрохи"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wysokość",
+        "options": [
+            "висота",
+            "двері",
+            "прикро",
+            "якийсь"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dym",
+        "options": [
+            "сонце",
+            "на",
+            "на",
+            "дими"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "kapelusz",
+        "options": [
+            "сестра",
+            "вогонь",
+            "поважно",
+            "капелюх"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "cichy",
+        "options": [
+            "тихий",
+            "пиво",
+            "до",
+            "донині"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "walka",
+        "options": [
+            "непокой",
+            "занадто",
+            "хлопець",
+            "боротьба"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "charakter",
+        "options": [
+            "почуття",
+            "колосально",
+            "ba",
+            "характер"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "brać",
+        "options": [
+            "місяць",
+            "завтра",
+            "братія",
+            "розуміти"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "czuć",
+        "options": [
+            "рівно",
+            "відчуттів",
+            "стільки",
+            "абсолютно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "uprzejmie",
+        "options": [
+            "шість",
+            "відшукати",
+            "горло",
+            "ввічливо"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "stopniowo",
+        "options": [
+            "мало",
+            "імовірно",
+            "король",
+            "поступово"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "śniadanie",
+        "options": [
+            "померти",
+            "першніж",
+            "сніданок",
+            "шеф"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pierś",
+        "options": [
+            "збереження",
+            "груди",
+            "глибина",
+            "петляй"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "schody",
+        "options": [
+            "сходи",
+            "здоров'я",
+            "думати",
+            "явити"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "gość",
+        "options": [
+            "намір",
+            "приймайгостей",
+            "отже",
+            "палуба"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "oddział",
+        "options": [
+            "мабуть",
+            "завтра",
+            "відділ",
+            "щоденно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ponadto",
+        "options": [
+            "ясно",
+            "дати",
+            "себе",
+            "крімтого"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "omal",
+        "options": [
+            "здобуття",
+            "оглянути",
+            "хтось",
+            "мало"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "lada",
+        "options": [
+            "хвилина",
+            "прилавок",
+            "куля",
+            "врешті"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "chory",
+        "options": [
+            "сигнал",
+            "майстер",
+            "долоня",
+            "хворий"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "miły",
+        "options": [
+            "наказ",
+            "милий",
+            "волосся",
+            "п'ять"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ponuro",
+        "options": [
+            "юнак",
+            "хвиля",
+            "понуро",
+            "батько"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "głęboki",
+        "options": [
+            "глибокий",
+            "збереження",
+            "коротко",
+            "колесо"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "owo",
+        "options": [
+            "оскільки",
+            "анітрохи",
+            "те",
+            "батько"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wszakże",
+        "options": [
+            "аджеж",
+            "стане",
+            "хвиля",
+            "врешті"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dyrektor",
+        "options": [
+            "звільнити",
+            "то",
+            "пояснити",
+            "директор"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wino",
+        "options": [
+            "досконало",
+            "забути",
+            "вино",
+            "небагато"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "dowódca",
+        "options": [
+            "часом",
+            "все",
+            "молодий",
+            "командувач"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "serdecznie",
+        "options": [
+            "страх",
+            "світло",
+            "ніщо",
+            "сердечно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "nisko",
+        "options": [
+            "дані",
+            "старанно",
+            "працювати",
+            "низько"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "komuś",
+        "options": [
+            "лікар",
+            "враження",
+            "комусь",
+            "робота"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kilkanaście",
+        "options": [
+            "тінь",
+            "зробити",
+            "кільканадцять",
+            "перед"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "lud",
+        "options": [
+            "кого",
+            "мир",
+            "люд",
+            "колись"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wspaniale",
+        "options": [
+            "рішуче",
+            "назвати",
+            "сестра",
+            "прекрасно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "frank",
+        "options": [
+            "дати",
+            "делікатно",
+            "франк",
+            "з"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "babcia",
+        "options": [
+            "залишитися",
+            "п'ятнадцять",
+            "щоб",
+            "бабуся"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "opowieść",
+        "options": [
+            "розповідь",
+            "тількиб",
+            "декілька",
+            "спокійний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zachowanie",
+        "options": [
+            "крім",
+            "темно",
+            "жінка",
+            "збереження"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wedle",
+        "options": [
+            "згідно",
+            "брюки",
+            "все",
+            "просити"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "robota",
+        "options": [
+            "ось",
+            "робота",
+            "бузок",
+            "тримати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nazwać",
+        "options": [
+            "шкода",
+            "повернути",
+            "згідно",
+            "назвати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pusty",
+        "options": [
+            "того",
+            "ніколи",
+            "досить",
+            "пустий"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "grać",
+        "options": [
+            "пустий",
+            "грати",
+            "дівчина",
+            "хлопець"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "częściowo",
+        "options": [
+            "частково",
+            "поговорити",
+            "приблизно",
+            "контакт"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "niebawem",
+        "options": [
+            "мета",
+            "незабаром",
+            "мозок",
+            "сорок"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "bezpośrednio",
+        "options": [
+            "можливість",
+            "безпосередньо",
+            "блиск",
+            "ксьондз"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "stanowisko",
+        "options": [
+            "вигук",
+            "як",
+            "захід",
+            "посада"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "lęk",
+        "options": [
+            "проблема",
+            "автор",
+            "новий",
+            "ляк"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "udać",
+        "options": [
+            "вдати",
+            "контакт",
+            "затримати",
+            "спати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "imperium",
+        "options": [
+            "імперія",
+            "лишитися",
+            "двері",
+            "бо"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "sygnał",
+        "options": [
+            "сигнал",
+            "участь",
+            "задоволення",
+            "звідти"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wygląd",
+        "options": [
+            "зустріч",
+            "вигляд",
+            "душа",
+            "те"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "krótki",
+        "options": [
+            "кожен",
+            "короткий",
+            "холера",
+            "пристосовуй"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wolny",
+        "options": [
+            "дивний",
+            "власне",
+            "вільний",
+            "дані"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pat",
+        "options": [
+            "нервово",
+            "виразно",
+            "привіт",
+            "пат"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "przypadek",
+        "options": [
+            "око",
+            "випадок",
+            "сто",
+            "хтось"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ciężki",
+        "options": [
+            "важкий",
+            "досить",
+            "захід",
+            "поки"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "spróbować",
+        "options": [
+            "брак",
+            "спробувати",
+            "поза",
+            "удар"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nauczyć",
+        "options": [
+            "раз",
+            "судно",
+            "навчити",
+            "тіло"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "rzucić",
+        "options": [
+            "хазяїн",
+            "лікар",
+            "досконало",
+            "кинути"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "rozumieć",
+        "options": [
+            "пістолет",
+            "розуміти",
+            "певний",
+            "хазяїн"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wejście",
+        "options": [
+            "око",
+            "спішно",
+            "свобода",
+            "вхід"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "trzej",
+        "options": [
+            "нещастя",
+            "недалеко",
+            "три",
+            "їсти"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pospiesznie",
+        "options": [
+            "холера",
+            "зручно",
+            "спішно",
+            "їх"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ostry",
+        "options": [
+            "гострий",
+            "ледве",
+            "дядько",
+            "бути"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "strażnik",
+        "options": [
+            "караульний",
+            "хочби",
+            "група",
+            "період"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "mistrz",
+        "options": [
+            "душа",
+            "незвичайно",
+            "майстер",
+            "переживань"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "prosić",
+        "options": [
+            "біль",
+            "вечір",
+            "просити",
+            "брова"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "drobne",
+        "options": [
+            "дрібне",
+            "бабуся",
+            "ледве",
+            "розуміти"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "spodziewać",
+        "options": [
+            "свіжо",
+            "непогано",
+            "оскільки",
+            "spodziewać"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "towarzystwo",
+        "options": [
+            "товариство",
+            "дах",
+            "відділ",
+            "мало"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "opowiedzieć",
+        "options": [
+            "судно",
+            "день",
+            "розповісти",
+            "крім"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "rad",
+        "options": [
+            "напад",
+            "радій",
+            "ego",
+            "однак"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "podnieść",
+        "options": [
+            "нажаль",
+            "підвищити",
+            "солдат",
+            "незабаром"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "okres",
+        "options": [
+            "bob",
+            "чого",
+            "період",
+            "петляй"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "swobodnie",
+        "options": [
+            "позбавлень",
+            "берег",
+            "незвичайно",
+            "безперешкодно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dokonać",
+        "options": [
+            "прийняти",
+            "можливо",
+            "зробити",
+            "навпаки"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "mózg",
+        "options": [
+            "ах",
+            "ніж",
+            "факт",
+            "мозок"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "jedzenie",
+        "options": [
+            "їжа",
+            "взяти",
+            "поганий",
+            "ані"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "chleb",
+        "options": [
+            "рішуче",
+            "напевне",
+            "порає",
+            "хліб"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zwłoki",
+        "options": [
+            "ніколи",
+            "останки",
+            "мама",
+            "тридцять"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "sierżant",
+        "options": [
+            "сержант",
+            "брюки",
+            "сердечно",
+            "двадцять"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dach",
+        "options": [
+            "дах",
+            "караульний",
+            "милий",
+            "певність"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "uciekać",
+        "options": [
+            "період",
+            "мистецтво",
+            "утікати",
+            "багато"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wszelki",
+        "options": [
+            "всілякий",
+            "якого",
+            "рана",
+            "дорога"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "koniecznie",
+        "options": [
+            "ліс",
+            "сьогодні",
+            "колись",
+            "необхідно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "radio",
+        "options": [
+            "удержати",
+            "радіо",
+            "непевно",
+            "автомобіль"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "biedny",
+        "options": [
+            "залишити",
+            "розмовляти",
+            "присутність",
+            "бідний"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "para",
+        "options": [
+            "караульний",
+            "пара",
+            "правильно",
+            "перед"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "siedzieć",
+        "options": [
+            "сидіти",
+            "отже",
+            "упіймав",
+            "ситуація"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "proces",
+        "options": [
+            "нічого",
+            "процес",
+            "сім",
+            "човен"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "dostatecznie",
+        "options": [
+            "сім",
+            "незвичайно",
+            "достатньо",
+            "жест"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "znad",
+        "options": [
+            "із-за",
+            "контакт",
+            "розмова",
+            "берег"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "nieszczęście",
+        "options": [
+            "новий",
+            "бо",
+            "нещастя",
+            "бог"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kot",
+        "options": [
+            "кіт",
+            "дитина",
+            "літак",
+            "мати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "potężny",
+        "options": [
+            "випадок",
+            "прилавок",
+            "переважно",
+            "потужний"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dosłownie",
+        "options": [
+            "дослівно",
+            "частково",
+            "слабко",
+            "вхід"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "młodzieniec",
+        "options": [
+            "юнак",
+            "пів",
+            "ледве",
+            "його"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ciężar",
+        "options": [
+            "висота",
+            "себе",
+            "тут",
+            "вага"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "okrzyk",
+        "options": [
+            "том",
+            "сонце",
+            "занадто",
+            "вигук"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pragnienie",
+        "options": [
+            "передусім",
+            "сон",
+            "майор",
+            "прагнення"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zdrowie",
+        "options": [
+            "чути",
+            "здоров'я",
+            "безперервно",
+            "участь"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "niezależnie",
+        "options": [
+            "повернутися",
+            "передусім",
+            "незалежно",
+            "план"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "istota",
+        "options": [
+            "в'яже",
+            "істота",
+            "судно",
+            "ходити"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "skóra",
+        "options": [
+            "саме",
+            "шкіра",
+            "ох",
+            "горло"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zauważyć",
+        "options": [
+            "король",
+            "ніщо",
+            "оскільки",
+            "зауважити"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dwanaście",
+        "options": [
+            "долоня",
+            "наш",
+            "а",
+            "дванадцять"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wódz",
+        "options": [
+            "висота",
+            "вождь",
+            "саме",
+            "чим"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "służyć",
+        "options": [
+            "собака",
+            "чоловік",
+            "служити",
+            "дерево"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "przeważnie",
+        "options": [
+            "вірити",
+            "хіба",
+            "переважно",
+            "ми"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "gospodarz",
+        "options": [
+            "нічого",
+            "місто",
+            "вікно",
+            "хазяїн"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "złapać",
+        "options": [
+            "упіймати",
+            "тількиб",
+            "туман",
+            "використати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "uważać",
+        "options": [
+            "написати",
+            "важко",
+            "вважати",
+            "з-під"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "mowa",
+        "options": [
+            "точно",
+            "мова",
+            "за",
+            "вигляд"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "mur",
+        "options": [
+            "мур",
+            "точно",
+            "настрой",
+            "бабуся"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "nawzajem",
+        "options": [
+            "взаємно",
+            "система",
+            "нарешті",
+            "також"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "gest",
+        "options": [
+            "жахливо",
+            "небезпека",
+            "повернутися",
+            "жест"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ogromnie",
+        "options": [
+            "адже",
+            "мати",
+            "відповісти",
+            "колосально"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "mianowicie",
+        "options": [
+            "тутже",
+            "ліжко",
+            "ледве",
+            "саме"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zwrócić",
+        "options": [
+            "особливо",
+            "вважати",
+            "повернути",
+            "сніданок"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ucho",
+        "options": [
+            "вухо",
+            "нічого",
+            "дивно",
+            "згідно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wykorzystać",
+        "options": [
+            "навпаки",
+            "вуха",
+            "лікар",
+            "використати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "brzuch",
+        "options": [
+            "живіт",
+            "високо",
+            "один",
+            "позбавлень"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "mrok",
+        "options": [
+            "колосально",
+            "коридор",
+            "читати",
+            "сутінки"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "prowadzić",
+        "options": [
+            "вести",
+            "написати",
+            "в'язало",
+            "нажаль"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "gruby",
+        "options": [
+            "майбутнє",
+            "товстий",
+            "чому",
+            "істота"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "sędzia",
+        "options": [
+            "винен",
+            "зауважити",
+            "власний",
+            "суддя"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "zimny",
+        "options": [
+            "пан",
+            "святий",
+            "страх",
+            "зимний"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "pozbyć",
+        "options": [
+            "мета",
+            "позбавлень",
+            "ряд",
+            "перед"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przedmiot",
+        "options": [
+            "предмет",
+            "рука",
+            "водночас",
+            "лист"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "przeżyć",
+        "options": [
+            "спокійний",
+            "зробити",
+            "шкіра",
+            "переживань"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "sprzed",
+        "options": [
+            "замість",
+            "вручи",
+            "від",
+            "прилавок"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "okręt",
+        "options": [
+            "судно",
+            "значно",
+            "кого",
+            "хтож"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dziewięć",
+        "options": [
+            "дев'ять",
+            "дівчинка",
+            "одне",
+            "що"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kochać",
+        "options": [
+            "дно",
+            "постать",
+            "запитати",
+            "кохати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dojść",
+        "options": [
+            "поговорити",
+            "довкола",
+            "дійти",
+            "поручик"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "poradzić",
+        "options": [
+            "старанно",
+            "порадити",
+            "хазяїн",
+            "також"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "obejrzeć",
+        "options": [
+            "дими",
+            "оглянути",
+            "розмова",
+            "помилка"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "święty",
+        "options": [
+            "пам'ять",
+            "власне",
+            "святий",
+            "несподівано"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "otwarcie",
+        "options": [
+            "укриттів",
+            "де",
+            "відверто",
+            "світ"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "papier",
+        "options": [
+            "свіжо",
+            "папір",
+            "постійно",
+            "говорити"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "bronić",
+        "options": [
+            "лишитися",
+            "справа",
+            "напад",
+            "захищати"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dwór",
+        "options": [
+            "сердечно",
+            "допомоги",
+            "ego",
+            "садиба"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "piwo",
+        "options": [
+            "значно",
+            "тобто",
+            "пиво",
+            "крик"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kula",
+        "options": [
+            "слово",
+            "куля",
+            "напроти",
+            "крім"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "słabo",
+        "options": [
+            "слабко",
+            "радість",
+            "випадок",
+            "тому"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "skończyć",
+        "options": [
+            "навчити",
+            "занадто",
+            "мур",
+            "закінчити"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "wszak",
+        "options": [
+            "ресурс",
+            "зручно",
+            "система",
+            "адже"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "tato",
+        "options": [
+            "tato",
+            "який",
+            "сам",
+            "чому"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wytłumaczyć",
+        "options": [
+            "чи",
+            "винятково",
+            "пояснити",
+            "дівчина"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "święta",
+        "options": [
+            "свята",
+            "ні",
+            "широко",
+            "радіо"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "silnik",
+        "options": [
+            "сержант",
+            "двигун",
+            "тихо",
+            "сто"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "samolot",
+        "options": [
+            "літак",
+            "вождь",
+            "недалеко",
+            "розум"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "uwolnić",
+        "options": [
+            "плече",
+            "три",
+            "звільнити",
+            "вручи"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "ptak",
+        "options": [
+            "який",
+            "птах",
+            "всюди",
+            "зовні"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ba",
+        "options": [
+            "посмішка",
+            "ba",
+            "літак",
+            "скільки"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "niecierpliwie",
+        "options": [
+            "нетерпляче",
+            "свідомість",
+            "сидіти",
+            "темрява"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "autor",
+        "options": [
+            "нещастя",
+            "автор",
+            "караульний",
+            "великий"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zniszczyć",
+        "options": [
+            "святий",
+            "знищити",
+            "відійти",
+            "хтож"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "mgła",
+        "options": [
+            "звук",
+            "водночас",
+            "то",
+            "туман"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "sztuka",
+        "options": [
+            "істота",
+            "виразно",
+            "мистецтво",
+            "обережно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "poeta",
+        "options": [
+            "свобода",
+            "знов",
+            "залишити",
+            "поет"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "nastrój",
+        "options": [
+            "напроти",
+            "настрой",
+            "добратися",
+            "схід"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wygodnie",
+        "options": [
+            "цілком",
+            "точно",
+            "зимно",
+            "зручно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "budynek",
+        "options": [
+            "язик",
+            "будівля",
+            "чужак",
+            "природно"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "niezmiernie",
+        "options": [
+            "холера",
+            "знову",
+            "позбавлень",
+            "безмірно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "dno",
+        "options": [
+            "затримати",
+            "наш",
+            "ліво",
+            "дно"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "ruszyć",
+        "options": [
+            "упіймати",
+            "рушити",
+            "серце",
+            "захищати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "skutek",
+        "options": [
+            "наслідок",
+            "повірити",
+            "бути",
+            "незвичайно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "wpływ",
+        "options": [
+            "глупий",
+            "єдиний",
+            "вона",
+            "вплив"
+        ],
+        "correct_option_id": 3
+    },
+    {
+        "word": "szum",
+        "options": [
+            "відчуттів",
+            "взяти",
+            "шуми",
+            "переконати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wasz",
+        "options": [
+            "вино",
+            "передусім",
+            "ваш",
+            "воно"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "winien",
+        "options": [
+            "винен",
+            "завжди",
+            "зазвичай",
+            "мав"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "świeżo",
+        "options": [
+            "свіжо",
+            "так",
+            "там",
+            "ані"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "napisać",
+        "options": [
+            "написати",
+            "хоч",
+            "товариство",
+            "утікати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "tytuł",
+        "options": [
+            "зір",
+            "заголовок",
+            "серед",
+            "повертатися"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pamiętać",
+        "options": [
+            "уважно",
+            "пам'ятати",
+            "довго",
+            "мав"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "książę",
+        "options": [
+            "кожен",
+            "місяць",
+            "принц",
+            "король"
+        ],
+        "correct_option_id": 2
+    }
+]
