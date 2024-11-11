@@ -22,12 +22,8 @@ pip install -r requirements.txt
 ```
    
 3. **Configuration**:
-- Create a config.json file with your bot token and Telegram channels:
-```json
-{
-  "token": "your_telegram_bot_token",
-  "channel_names": ["@channel1", "@channel2"]
-}
+- Set environment variable TOKEN with your telegram bot token.
+
 ```
 - Set up the schedule in schedule.json. Specify the hours and minutes for each poll (in Warsaw local time):
 ```json
@@ -46,7 +42,7 @@ python quiz_bot.py
 ## Files
 
 - **quiz_bot.py**: The main script for running the bot.
-- **config.json**: Stores the bot token and list of channels.
+- **config.json**: Stores the list of channels.
 - **schedule.json**: Defines the schedule for poll times.
 - **words.json**: Contains vocabulary questions and answers.
 

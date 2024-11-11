@@ -1,5 +1,3 @@
-config.json
-
 # System and temp
 __pycache__/
 *.pyc
