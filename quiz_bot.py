@@ -1,3 +1,4 @@
+import os
 import logging
 import random
 import json
@@ -33,7 +34,7 @@ def save_json_file(data: dict, filename: str) -> None:
 
 # Loading the configuration
 config = load_json_file(CONFIG_FILE)
-TOKEN = config.get("token", "")
+TOKEN = os.getenv("TOKEN")
 CHANNEL_NAMES = config.get("channel_names", [])
 words = load_json_file(WORDS_FILE)
 schedule = load_json_file(SCHEDULE_FILE)
