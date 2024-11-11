@@ -23,6 +23,10 @@ pip install -r requirements.txt
    
 3. **Configuration**:
 - Set environment variable TOKEN with your telegram bot token.
+- Set environment variable CHANNEL_NAMES with list of default channels (optional).
+```CHANNEL_NAMES
+@CHANNEL_NAME1,@CHANNEL_NAME2,@CHANNEL_NAME3
+```
 
 ```
 - Set up the schedule in schedule.json. Specify the hours and minutes for each poll (in Warsaw local time):

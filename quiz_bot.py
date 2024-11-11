@@ -33,9 +33,28 @@ def save_json_file(data: dict, filename: str) -> None:
         logger.error(f"Error saving in {filename}: {e}")
 
 # Loading the configuration
-config = load_json_file(CONFIG_FILE)
 TOKEN = os.getenv("TOKEN")
+
+channel_names_env = os.getenv("CHANNEL_NAMES", "")
+if channel_names_env:
+    channel_names = [channel.strip() for channel in channel_names_env.split(",")]
+    config = load_json_file(CONFIG_FILE)
+    existing_channels = set(config.get("channel_names", []))
+    new_channels = set(channel_names) - existing_channels
+
+    if new_channels:
+        config["channel_names"] = list(existing_channels | new_channels)
+        save_json_file(config, CONFIG_FILE)
+        logger.info(f"New channels added from environment variable: {', '.join(new_channels)} to config.json")
+    else:
+        logger.info("No new channels to add from environment variable.")
+else:
+    logger.info(f"Environment variable CHANNEL_NAMES is absent. The list of channels is taken from config.json")
+    config = load_json_file(CONFIG_FILE)
+    channel_names = config.get("channel_names", [])
+
 CHANNEL_NAMES = config.get("channel_names", [])
+
 words = load_json_file(WORDS_FILE)
 schedule = load_json_file(SCHEDULE_FILE)
 poland_timezone = pytz.timezone("Europe/Warsaw")
