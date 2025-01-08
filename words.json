@@ -628,5 +628,347 @@
             "схованка"
         ],
         "correct_option_id": 2
+    },
+    {
+        "word": "skutek",
+        "options": [
+            "ефект",
+            "край",
+            "сумний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "marynarka",
+        "options": [
+            "огірки",
+            "піджак",
+            "кофта"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "makrela",
+        "options": [
+            "форель",
+            "мідія",
+            "скумбрія"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "sprężyna",
+        "options": [
+            "пружність",
+            "весна",
+            "пружина"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "płeć",
+        "options": [
+            "стать",
+            "плече",
+            "пливти"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "płeć",
+        "options": [
+            "стать",
+            "плече",
+            "пливти"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "nagle",
+        "options": [
+            "раптово",
+            "різко",
+            "швидко"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "uczucie",
+        "options": [
+            "вчитися",
+            "відчуття",
+            "чути"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "szczegół",
+        "options": [
+            "частина",
+            "подробиця",
+            "несподіванка"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ludzkość",
+        "options": [
+            "натовп",
+            "людожерство",
+            "людяність"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "narządy",
+        "options": [
+            "органи",
+            "речі",
+            "управління"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zauważyć",
+        "options": [
+            "вживати",
+            "помічати",
+            "розвернути"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przedłużacz",
+        "options": [
+            "пропонувати",
+            "подовжувач",
+            "шнур"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "szyba samochodowa",
+        "options": [
+            "автомобільне вікно",
+            "автомобільна дверь",
+            "автомобільна шина"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kwota",
+        "options": [
+            "сума",
+            "субсидія",
+            "пільга"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kojarzyć się",
+        "options": [
+            "асоційоватися",
+            "користатися",
+            "пов'язувати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "potrafić",
+        "options": [
+            "розгледіти",
+            "травити",
+            "змогти"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "martwić się",
+        "options": [
+            "мордувати",
+            "миритися",
+            "турбуватися"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "martwić się",
+        "options": [
+            "мордувати",
+            "миритися",
+            "турбуватися"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "szklarnia",
+        "options": [
+            "акваріум",
+            "склянка",
+            "теплиця"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "przeciekać",
+        "options": [
+            "відвідувати",
+            "протікати",
+            "очікувати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przycisk",
+        "options": [
+            "доказ",
+            "кнопка",
+            "аргумент"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "szyny",
+        "options": [
+            "рейки",
+            "колеса",
+            "самокат"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "rzeczywistość",
+        "options": [
+            "реальність",
+            "можливість",
+            "очевидно"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "cienki",
+        "options": [
+            "тяжкий",
+            "тонкий",
+            "гіркий"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "żarówka",
+        "options": [
+            "пательня",
+            "лампочка",
+            "плита"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nurek",
+        "options": [
+            "водолаз",
+            "норма",
+            "нора"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zachowanie",
+        "options": [
+            "притулок",
+            "поведінка",
+            "привітання"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wynik",
+        "options": [
+            "віник",
+            "результат",
+            "виклик"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "hamulec",
+        "options": [
+            "віник",
+            "кермо",
+            "гальмо"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kierownica",
+        "options": [
+            "керувальник",
+            "водій",
+            "кермо"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kierownik",
+        "options": [
+            "керувальник",
+            "водій",
+            "кермо"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "reflektory",
+        "options": [
+            "фари",
+            "холодильники",
+            "рефлекси"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "irytować",
+        "options": [
+            "дратувати",
+            "кричати",
+            "дразнити"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ekscytujące",
+        "options": [
+            "захоплююче",
+            "екстремально",
+            "цікаво"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "płot",
+        "options": [
+            "паркан",
+            "пліт",
+            "пілот"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "brama",
+        "options": [
+            "ворота",
+            "пліт",
+            "баран"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "emeryt",
+        "options": [
+            "емігрант",
+            "пенсіонер",
+            "діамант"
+        ],
+        "correct_option_id": 1
     }
 ]
