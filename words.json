@@ -636,7 +636,7 @@
             "край",
             "сумний"
         ],
-        "correct_option_id": 1
+        "correct_option_id": 0
     },
     {
         "word": "marynarka",
@@ -970,5 +970,311 @@
             "діамант"
         ],
         "correct_option_id": 1
+    },
+    {
+        "word": "odwrotnie",
+        "options": [
+            "повертати",
+            "навпаки",
+            "назад"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zakazać",
+        "options": [
+            "замовляти",
+            "забороняти",
+            "закривати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pomieszać",
+        "options": [
+            "повертати",
+            "перемішувати",
+            "переплутати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "peleryna",
+        "options": [
+            "накидка",
+            "перлина",
+            "намисто"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "naszyjnik",
+        "options": [
+            "намисто",
+            "нашийник",
+            "браслет"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "obroża",
+        "options": [
+            "намисто",
+            "нашийник",
+            "браслет"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pierścień",
+        "options": [
+            "намисто",
+            "кільце",
+            "браслет"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "obok",
+        "options": [
+            "збоку",
+            "навкруги",
+            "поруч"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pobliżu",
+        "options": [
+            "збоку",
+            "навкруги",
+            "близько"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pomylić",
+        "options": [
+            "перемолоти",
+            "перемішати",
+            "переплутати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nałogi",
+        "options": [
+            "шкідливі звички",
+            "податки",
+            "вади"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "opętanie",
+        "options": [
+            "опитування",
+            "одержимість",
+            "вміння"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "usunąć",
+        "options": [
+            "відсунути",
+            "видалити",
+            "вміти"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ciuchy",
+        "options": [
+            "шмотки",
+            "тапки",
+            "тихий"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "łudzić",
+        "options": [
+            "гуляти",
+            "знаходити",
+            "обманювати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "tytoń",
+        "options": [
+            "тютюн",
+            "тритон",
+            "втопленик"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "negocjować",
+        "options": [
+            "відмовляти",
+            "вести переговори",
+            "відміняти"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "gdzieś",
+        "options": [
+            "десь",
+            "гість",
+            "гусь"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "bzdury",
+        "options": [
+            "обманювати",
+            "дрібниці",
+            "дурниці"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "osądzać",
+        "options": [
+            "обманювати",
+            "осягнати",
+            "засуджувати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "sędzia",
+        "options": [
+            "суддя",
+            "сусід",
+            "суд"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "prostokąt",
+        "options": [
+            "прямокутник",
+            "трикутник",
+            "куб"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "trójkąt",
+        "options": [
+            "прямокутник",
+            "трикутник",
+            "куб"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "sześcian",
+        "options": [
+            "прямокутник",
+            "трикутник",
+            "куб"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "obszar",
+        "options": [
+            "вид",
+            "бекон",
+            "площа"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zastanowi się",
+        "options": [
+            "замислитись",
+            "зупинитись",
+            "зулишити"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zabieg",
+        "options": [
+            "процедура",
+            "забіг",
+            "марафон"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zamierzć",
+        "options": [
+            "виміряти",
+            "мати намір",
+            "мріяти"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zaległe",
+        "options": [
+            "випадковий",
+            "прострочений",
+            "загублений"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "napięty",
+        "options": [
+            "п'яний",
+            "розгублений",
+            "напружений"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "pożegnanie",
+        "options": [
+            "прощання",
+            "побажання",
+            "бажання"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "konieczność",
+        "options": [
+            "кінець",
+            "необхідність",
+            "відсутність"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zdarza się",
+        "options": [
+            "трапляється",
+            "здається",
+            "знаходиться"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "ropa",
+        "options": [
+            "нафта",
+            "нора",
+            "діра"
+        ],
+        "correct_option_id": 0
     }
 ]

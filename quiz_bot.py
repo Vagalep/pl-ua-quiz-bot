@@ -57,6 +57,8 @@ CHANNEL_NAMES = config.get("channel_names", [])
 
 words = load_json_file(WORDS_FILE)
 schedule = load_json_file(SCHEDULE_FILE)
+history_limit = len(schedule)
+used_words_history = []
 poland_timezone = pytz.timezone("Europe/Warsaw")
 
 def format_schedule_text(schedule) -> str:
@@ -76,13 +78,30 @@ async def send_message(context, chat_id, text):
     except Exception as e:
         logger.error(f"Failed to send message to {chat_id}: {e}")
 
+def get_random_word(words, used_words_history, history_limit):
+    available_words = [word for word in words if word not in used_words_history]
+
+    if not available_words:
+        logger.warning("All the words have been used. Starts from the beginning.")
+        used_words_history.clear()
+        available_words = words.copy()
+
+    selected_word = random.choice(available_words)
+
+    # Refresh history
+    used_words_history.append(selected_word)
+    if len(used_words_history) > history_limit:
+        used_words_history.pop(0)
+
+    return selected_word
+
 async def start_poll(context: ContextTypes.DEFAULT_TYPE):
     if not words:
         logger.error("The word list is empty or not loaded.")
         return
 
     logger.info("Starting a poll")
-    word_data = random.choice(words)
+    word_data = get_random_word(words, used_words_history, history_limit)
     correct_answer = word_data["options"][word_data["correct_option_id"]]
 
     for channel_username in CHANNEL_NAMES:
