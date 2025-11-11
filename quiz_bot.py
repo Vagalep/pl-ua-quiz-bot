@@ -57,7 +57,7 @@ CHANNEL_NAMES = config.get("channel_names", [])
 
 words = load_json_file(WORDS_FILE)
 schedule = load_json_file(SCHEDULE_FILE)
-history_limit = len(schedule)
+history_limit = 15
 used_words_history = []
 poland_timezone = pytz.timezone("Europe/Warsaw")
 

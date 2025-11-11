@@ -911,7 +911,7 @@
     {
         "word": "kierownik",
         "options": [
-            "керувальник",
+            "керівник",
             "водій",
             "кермо"
         ],
@@ -1276,5 +1276,266 @@
             "діра"
         ],
         "correct_option_id": 0
+    },
+    {
+        "word": "Mniej więcej",
+        "options": [
+            "приблизно",
+            "менше більше",
+            "недостатньо"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "udowodnić",
+        "options": [
+            "задовільнити",
+            "довести",
+            "визначати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "rozkosz",
+        "options": [
+            "розкіш",
+            "богатство",
+            "насолода"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "analfabetyzm",
+        "options": [
+            "неграмотність",
+            "дольтанизм",
+            "геморой"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "trzustka",
+        "options": [
+            "шітка",
+            "підшлункова залоза",
+            "комірець"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "trzustka",
+        "options": [
+            "шітка",
+            "підшлункова залоза",
+            "комірець"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wykrzyknik",
+        "options": [
+            "№",
+            "!",
+            "~"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "znak zapytania",
+        "options": [
+            "?",
+            "!",
+            "*"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "dwukropek",
+        "options": [
+            "...",
+            ".",
+            ":"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "przecinek",
+        "options": [
+            "#",
+            ".",
+            ","
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "cudzysłow",
+        "options": [
+            "''",
+            ",",
+            "@"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "małpa",
+        "options": [
+            "$",
+            ",",
+            "@"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kropka",
+        "options": [
+            "!",
+            ",",
+            "."
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "nawiasy",
+        "options": [
+            "()",
+            "-",
+            "="
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "myślnik",
+        "options": [
+            "-",
+            "?",
+            "&"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "gwiazdka",
+        "options": [
+            "-",
+            "*",
+            "&"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "podkreślnik",
+        "options": [
+            "!",
+            "~",
+            "_"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "stopień",
+        "options": [
+            "!",
+            "^",
+            "°"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wielokropek",
+        "options": [
+            ".",
+            "...",
+            ",,,"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "nawias kwadratowy",
+        "options": [
+            "()",
+            "[]",
+            "''"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pierwiastek",
+        "options": [
+            "√",
+            "!",
+            "*"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "równa się",
+        "options": [
+            "!",
+            "=",
+            "+"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "fala",
+        "options": [
+            "-",
+            "_",
+            "~"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "kolej linowa-terenowy",
+        "options": [
+            "трамвайний маршрут",
+            "тролейбусний маршрут",
+            "фунікулер"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "choroba przewlekła",
+        "options": [
+            "придбана хвороба",
+            "хронічна хвороба",
+            "розповсюджена хвороба"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "rozpowszechniony",
+        "options": [
+            "розповсюджений",
+            "частий",
+            "розкритий"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "rozszerzony",
+        "options": [
+            "розповсюджений",
+            "розширений",
+            "розкритий"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kierowca",
+        "options": [
+            "водій",
+            "керівник",
+            "кермо"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "pilnie",
+        "options": [
+            "пильно",
+            "терміново",
+            "обережно"
+        ],
+        "correct_option_id": 1
     }
 ]
