@@ -915,7 +915,7 @@
             "водій",
             "кермо"
         ],
-        "correct_option_id": 1
+        "correct_option_id": 0
     },
     {
         "word": "reflektory",
@@ -1518,7 +1518,7 @@
             "розширений",
             "розкритий"
         ],
-        "correct_option_id": 0
+        "correct_option_id": 1
     },
     {
         "word": "kierowca",
@@ -1537,5 +1537,482 @@
             "обережно"
         ],
         "correct_option_id": 1
+    },
+    {
+        "word": "zastanawiać się",
+        "options": [
+            "замислюватися",
+            "зупинятися",
+            "залишати"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "sztućce",
+        "options": [
+            "витвори мистецтва",
+            "штуки",
+            "столові прибори"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "upierdliwy",
+        "options": [
+            "впертий",
+            "надокучливий",
+            "дурний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "ingerować",
+        "options": [
+            "нервувати",
+            "втручатися",
+            "заряджати"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "konsekwencje",
+        "options": [
+            "наслідки",
+            "конкретика",
+            "ефект"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "warstwa",
+        "options": [
+            "овочі",
+            "верхівка",
+            "шари"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "narzekać",
+        "options": [
+            "осуджувати",
+            "органи",
+            "скаржитися"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wchłaniać",
+        "options": [
+            "вихваляти",
+            "нюхати",
+            "поглинати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "wchłaniać",
+        "options": [
+            "вихваляти",
+            "нюхати",
+            "поглинати"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "unicestwiony",
+        "options": [
+            "принижений",
+            "забруднений",
+            "знищений"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "unicestwiony",
+        "options": [
+            "принижений",
+            "забруднений",
+            "знищений"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "chciwość",
+        "options": [
+            "жадібність",
+            "хтивість",
+            "хитрість"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "gruczoł",
+        "options": [
+            "залоза",
+            "котел",
+            "гризун"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "felgi",
+        "options": [
+            "диски",
+            "фляги",
+            "фольга"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zmarzluch",
+        "options": [
+            "холод",
+            "мерзляк",
+            "маленький"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zbocze",
+        "options": [
+            "схил",
+            "збоку",
+            "спуск"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "suwak",
+        "options": [
+            "штурвал",
+            "застібка-блискавка",
+            "вантажник"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "upior",
+        "options": [
+            "замок",
+            "привід",
+            "вантажник"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "upior",
+        "options": [
+            "замок",
+            "привід",
+            "вантажник"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "grzywna",
+        "options": [
+            "гривня",
+            "штраф",
+            "грива"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "bez kitu",
+        "options": [
+            "без страху",
+            "без жартів",
+            "без бажання"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "bez kitu",
+        "options": [
+            "без страху",
+            "без жартів",
+            "без бажання"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "obłęd",
+        "options": [
+            "божевілля",
+            "шахрайство",
+            "помилка"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "hipokryzja",
+        "options": [
+            "лицемірство",
+            "гіпертонія",
+            "епілепсія"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "udręka",
+        "options": [
+            "мука",
+            "біль",
+            "хвилювання"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "trwonić",
+        "options": [
+            "дарувати",
+            "розтрачувати",
+            "розмовляти"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zamęt",
+        "options": [
+            "метіль",
+            "хаос",
+            "занос"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "beztroski",
+        "options": [
+            "безстрашний",
+            "безтурботний",
+            "безцінний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "hojny",
+        "options": [
+            "гордий",
+            "щедрий",
+            "відважний"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "przebiegły",
+        "options": [
+            "хронічний",
+            "хитрий",
+            "підлий"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "wstrętny",
+        "options": [
+            "огидний",
+            "хитрий",
+            "підлий"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zasadniczy",
+        "options": [
+            "принциповий",
+            "хитрий",
+            "підступний"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "współczucie",
+        "options": [
+            "співчуття",
+            "вболівання",
+            "турбота"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "zaległośc",
+        "options": [
+            "співчуття",
+            "бажання",
+            "заборгованість"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "bezskutecznoczć",
+        "options": [
+            "неефективність",
+            "безсенсовність",
+            "безрезультатність"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zaloty",
+        "options": [
+            "золото",
+            "ніжність",
+            "залицяння"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "przemytnik",
+        "options": [
+            "столяр",
+            "сміттяр",
+            "контрабандист"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "szamotanina",
+        "options": [
+            "спілка",
+            "галас",
+            "сутичка"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "denat",
+        "options": [
+            "донтист",
+            "йогурт",
+            "труп"
+        ],
+        "correct_option_id": 2
+    },
+    {
+        "word": "zbędny",
+        "options": [
+            "необхідний",
+            "зайвий",
+            "зіпсований"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "zwiastun",
+        "options": [
+            "свистіти",
+            "трейлер",
+            "абзац"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "drwal",
+        "options": [
+            "копальня",
+            "лісоруб",
+            "вантажник"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "plotki",
+        "options": [
+            "факти",
+            "плітки",
+            "політики"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "imponują",
+        "options": [
+            "запрошують",
+            "вражають",
+            "представляють"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "imponują",
+        "options": [
+            "запрошують",
+            "вражають",
+            "представляють"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "skruch",
+        "options": [
+            "крюк",
+            "розкаяння",
+            "схил"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "pogardę",
+        "options": [
+            "гордість",
+            "зневага",
+            "побут"
+        ],
+        "correct_option_id": 1
+    },
+    {
+        "word": "bimber",
+        "options": [
+            "самогон",
+            "зневага",
+            "бомбардир"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "w obrębie",
+        "options": [
+            "в межах",
+            "з іншого боку",
+            "навпаки"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kurka-rurka",
+        "options": [
+            "йолки-палки",
+            "йо-мойо",
+            "курка-труба"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "kurka-rurka",
+        "options": [
+            "йолки-палки",
+            "йо-мойо",
+            "курка-труба"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "osioł patentowany",
+        "options": [
+            "дурень несусвітний",
+            "осел з дипломом",
+            "ідіот"
+        ],
+        "correct_option_id": 0
+    },
+    {
+        "word": "no i klops",
+        "options": [
+            "ось тобі і маєш",
+            "ось дивись",
+            "кляп"
+        ],
+        "correct_option_id": 0
     }
 ]
